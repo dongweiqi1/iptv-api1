@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel.m3u
-https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel.m3u
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel2.m3u
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/zubo.m3u
 https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SamsungTVPlus-All.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/39098fce4be816997371c369f1b045a153509d68/streams/us_moveonjoy.m3u
