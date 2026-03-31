@@ -18,9 +18,8 @@ https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/nonload.m3u
 https://raw.githubusercontent.com/Cnmajun/IpTV/171dba781c48dd5f6fb2d2d9972ad1814248fb7d/fashionTV.m3u
 https://raw.githubusercontent.com/alenin-zhang/IPTV/9b6fcfdb2057fbf11614bd3b3d8096257ca4b2ba/av
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hk.m3u
 
-# https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hk.m3u
-# https://raw.githubusercontent.com/Bainchiclo/iptv/refs/heads/main/globe.m3u8
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
