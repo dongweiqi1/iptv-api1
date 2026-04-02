@@ -2258,10 +2258,12 @@ https://surrit.com/57d25c92-4982-44a6-b4f6-32560e411f61/1280x720/video.m3u8
 
 
 ##兔子先生/Pussy Hunter/映秀传媒
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/3911bbdeabdaf98d67cd0445911f2cc69fdd05d5ada0b5c35f911793ec23edf0/thumbnails/video.jpg",NS-001.ひなねこ.Blue Lace Luxury Slut Gets Her Holes Wrecked
+
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/1ed9767aae40641c478c657a57cfc73f25bdce51debcce8894d01c2922f5b4ca/thumbnails/video.jpg",MOSO-028.香月怜.Mika.BGG REN Mika-Big Dick与泰国和日本女孩
 https://10j991.cdnedge.live/file/avple-asserts/hls/6832414f8a769839589b03bd/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/2e3bc645057e47e71dd790ca9c1f1795a0f2a5d3b2651e2f2068f5a5afbecdf7/thumbnails/video.jpg",MOSO-027.香月怜.BG Lin BKK
+https://ja34l1.cdnedge.live/file/avple-asserts/hls/6772c271bb40e4538599bd0c/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
@@ -2272,6 +2274,10 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tz/MOSO-012/out
 https://b3h6s1.cdnedge.live/file/avple-asserts/hls/6954c8096bec5a56790a6e5d/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/3d695ac0aaf0a3556902558dfc254b5924780097deff091407bee1d328c59b30/thumbnails/video.jpg",MOSO-008.菅本有纪.我的性瘾老师
 https://1xp601.cdnedge.live/file/avple-asserts/hls/69522453e384713073e9fc4f/playlist.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/941f2a8414609b17f1aa11ec9f54c193c6a2ef2dbfd8577a6fbabc3666b84503/thumbnails/video.jpg",MOSO-007.Melody Marks.Melody Marks & Mr.Bunny In Tokyo Part3
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tz/MOSO-007/output.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/6c582b4ed40f136bd28a6ab58c5bdc37b0e1a92755f7d57144aff9d3476d62da/thumbnails/video.jpg",MOSO-003.Melody Marks.Melody Marks & Mr.Bunny In Tokyo Part2
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tz/MOSO-003/output.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2408/D-0S0061S53Pdd32D41.jpg",DAD-034.小林杏.爸气十足EP50
 https://t33.cdn2020.com/video/m3u8/2024/08/29/a79a7737/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://s10.imagehaha.com/th/62340/ebob8lv0fp43.jpg",DAD-033.橫井智美.爸气十足EP49
@@ -2522,7 +2528,7 @@ https://t26.cdn2020.com/video/m3u8/2023/09/28/16411e0a/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2023/09/21/a4bbae4f/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz121.jpg",TZ-121.小岛凛.小岛凛出道作
 https://t26.cdn2020.com/video/m3u8/2023/09/13/0d69f90f/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz120.jpg",TZ-120.凌波丽.女优私密生活公开
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz120.jpg",TZ-120.绫波丽.女优私密生活公开
 https://t26.cdn2020.com/video/m3u8/2023/09/06/51735be6/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/TZ119.jpg",TZ-119.石川律子.淫乱钢琴教师的私生活
 https://t26.cdn2020.com/video/m3u8/2023/08/31/b677045c/index.m3u8
@@ -2536,7 +2542,7 @@ https://t26.cdn2020.com/video/m3u8/2023/08/10/ebc62679/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2023/08/02/d8ef06e0/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz114.jpg",TZ-114.天音美纱.户外特辑之岩洞荒野求精
 https://t26.cdn2020.com/video/m3u8/2023/07/19/37e7a6c0/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz113.jpg",TZ-113.凌波丽.我的百变女友
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/10/tz113.jpg",TZ-113.绫波丽.我的百变女友
 https://t26.cdn2020.com/video/m3u8/2023/07/12/12126ee3/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cloud95.xunse.pics/2025/12/24/57bd343a07a354e59c23b6c4ae572b68.jpg",TZ-112.水原圣子.兔子按摩院EP6.国宝极K杯巨乳
 https://t26.cdn2020.com/video/m3u8/2023/07/06/b716b22d/index.m3u8
@@ -2544,9 +2550,9 @@ https://t26.cdn2020.com/video/m3u8/2023/07/06/b716b22d/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2023/07/28/343c726a/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ-110.jpg",TZ-110.小岛凛.父亲节迷奸巨乳女儿
 https://t26.cdn2020.com/video/m3u8/2023/06/16/b5d9fa65/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ109.jpg",TZ-109-01.凌波丽.轮奸女搜查官.上篇
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ109.jpg",TZ-109-01.绫波丽.轮奸女搜查官.上篇
 https://t26.cdn2020.com/video/m3u8/2023/06/08/42ca7ed5/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2307/D-0F40JKQ352dd24I5.jpg",TZ-109-02.凌波丽.轮奸女搜查官.下篇
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2307/D-0F40JKQ352dd24I5.jpg",TZ-109-02.绫波丽.轮奸女搜查官.下篇
 https://t26.cdn2020.com/video/m3u8/2023/06/30/7640bf36/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cloud95.xunse.pics/2025/12/24/af0fa01f8519c6780d33ec4a75a33827.jpg",TZ-108.绫波丽.痴女与植物人丈夫
 https://t26.cdn2020.com/video/m3u8/2023/05/28/930b2ffc/index.m3u8
@@ -2594,9 +2600,9 @@ https://t33.cdn2020.com/video/m3u8/2023/01/05/0a0096e0/index.m3u8
 https://c4m6s1.cdnedge.live/file/avple-asserts/hls/63afb8283d594b287dd6c380/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ087.jpg",TZ-087.美樱.天音美纱.大阪闺蜜圣诞双飞
 https://cmall.helloye.com/63a7413dd0ddb0c432fce69c/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ086.jpg",TZ-086.七原奈々子.爸气十足EP15
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2023/06/TZ086.jpg",TZ-086.七原菜菜子.爸气十足EP15
 https://t33.cdn2020.com/video/m3u8/2022/12/21/f5853d44/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2022/12/TZ085.jpg",TZ-085.绫波丽.前女友订婚礼物
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2022/12/TZ085.jpg",TZ-085.绫波丽.给前女友的订婚礼物
 https://t33.cdn2020.com/video/m3u8/2022/12/08/3f9936ee/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://www.imgccc.com/2025/08/22/af92464ea2c35.jpg",TZ-084.我的美国妹妹
 https://t33.cdn2020.com/video/m3u8/2022/12/01/c8b177c5/index.m3u8
@@ -2700,7 +2706,7 @@ https://t26.cdn2020.com/video/m3u8/2022/02/07/0c7f8933/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2022/01/20/cfb723db/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220114/2_011410512N9C.jpg",TZ-040.双子兄弟EP4.巨乳少妇疯狂榨精
 https://t26.cdn2020.com/video/m3u8/2022/01/13/081d936c/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220107/2_010FH312V56.jpg",TZ-039.凌波丽.当初恋已成人妻
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220107/2_010FH312V56.jpg",TZ-039.绫波丽.当初恋已成人妻
 https://t26.cdn2020.com/video/m3u8/2022/01/06/89b82a97/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.immgo1.online/wp-content/uploads/2022/11/TZ038.jpg",TZ-038.明日香.东京爱欲故事EP4.疯狂做爱迎新年
 https://rd1921.cdnedge.live/file/avple-asserts/hls/63e9fe9093eb6e47afff1828/playlist.m3u8
@@ -2732,9 +2738,9 @@ https://rd1921.cdnedge.live/file/avple-asserts/hls/640b855c949a6c77f5a9c9d9/play
 https://rup0u.cdnedge.live/file/avple-images/hls/6301c7adaa228e7b87926828/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210929/2_092ZT6433940.jpg",TZ-023.明日香.东京爱欲故事EP1.巨乳丰臀性爱游戏
 https://rr0s11.cdnedge.live/file/avple-asserts/hls/63b610cb3a9b557c4c4e21bc/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210929/2_092ZTH3b64.jpg",TZ-022.凌波丽.娜娜.情侣性爱挑战赛EP2.荒淫豪礼无套内射
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210929/2_092ZTH3b64.jpg",TZ-022.绫波丽.娜娜.情侣性爱挑战赛EP2.荒淫豪礼无套内射
 https://rr0s11.cdnedge.live/file/avple-asserts/hls/640a77d313616c0dfb4f3534/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210929/2_092ZTRLG3.jpg",TZ-021.凌波丽.娜娜.情侣性爱挑战赛EP1.忍不住的强取豪夺
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210929/2_092ZTRLG3.jpg",TZ-021.绫波丽.娜娜.情侣性爱挑战赛EP1.忍不住的强取豪夺
 https://2nm9j1.cdnedge.live/file/avple-asserts/hls/640f985590c8eb3feeb2d67c/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210711/2_0G10UI19549.jpg",TZ-020.池田奈美.明日香.西村莉娜.天使爱.足球宝贝EP3.AV篇.足球尤物诱惑性爱
 https://fa678.cdnedge.live/file/avple-images/hls/60e98759496f011478ebe24b/playlist.m3u8
@@ -2790,43 +2796,97 @@ https://8bb881.cdnedge.live/file/avple-asserts/hls/64089c0c5658965d05c122c4/play
 https://wo8801.cdnedge.live/file/avple-asserts/hls/63bdb37b3af3ad03959367fe/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://qpic.ws/images/2021/09/15/7U5c1.jpg",TZ-001.佐佐波莉乃.日本街头搭讪女大学生拍摄AV
 https://60frt1.cdnedge.live/file/avple-asserts/hls/643d167065cb7f0c8a2b8b5e/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2401/D-010PJ425f1e109252a.jpg",PS037.一宮みほの.搭讪援交少女
 https://xre5q1.cdnedge.live/file/avple-asserts/hls/6598fed559ab8043a8058862/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2401/D-01040A45437c1a225621.jpg",PS036.羽柴よしの.搭讪偶遇风俗女 
 https://xre5q1.cdnedge.live/file/avple-asserts/hls/6593810509e90f57088cebd8/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2312/D-122FFU4c4ceK21434.jpg",PS035.青木零.雨天搭讪岛国骚女
+https://t26.cdn2020.com/video/m3u8/2023/12/24/3bdfb1fa/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2312/D-121ZI615cDf5b23a6.jpg",PS034.森川智悠.探秘大久保公园
+https://t26.cdn2020.com/video/m3u8/2023/12/17/33fd0847/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2312/D-12060H2007c0c1125457.jpg",PS033.羽田美香.岛国妹妹上错车
+https://t26.cdn2020.com/video/m3u8/2023/12/04/cbafd332/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-112006063Tf35062FU.jpg",PS032.芹泽由纪.变态露出少女
+https://t26.cdn2020.com/video/m3u8/2023/11/19/86074fed/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-1103064J094d346224c.jpg",PS031.板倉ねね.留学少女网吧性爱
+https://t26.cdn2020.com/video/m3u8/2023/11/01/1e900907/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2305/D-05050945395e12e121922.jpg",PS030.黑田爱香.搭讪失恋少女邻居
+https://t33.cdn2020.com/video/m3u8/2023/05/03/5be30355/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0419151SZ62e1c22916.jpg",PS029.齐藤丽.咖啡店搭讪温柔姐姐
+https://t33.cdn2020.com/video/m3u8/2023/04/18/a703c32c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0403215132ac91a3220D.jpg",PS028.小熊汐里.深夜家出少女带回家
+https://t33.cdn2020.com/video/m3u8/2023/04/02/ab426671/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2303/D-03120R3030dbH026428.jpg",PS027.秋山理惠.初体验日本约会软件
+https://t33.cdn2020.com/video/m3u8/2023/03/10/a8a3cdf2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2302/D-021411440F33c262b60.jpg",PS026.柚木诗.大阪远征关西少妇情感指导
+https://t33.cdn2020.com/video/m3u8/2023/02/13/01fe2c66/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2301/D-011611402462f34d23517.jpg",PS025.筱崎沙罗.我的外国冤种兄弟4P大作战
+https://t33.cdn2020.com/video/m3u8/2023/01/13/bde6dc85/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2301/D-010Z9521092e56d243H.jpg",PS024.松原步香.偷拍精油按摩店 
 https://fa6781.cdnedge.live/file/avple-asserts/hls/63bb91681f5cec229b479c7a/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2212/D-12201103132caS52PA.jpg",PS023.桥本爱菜.搭讪传单打工女
+https://t33.cdn2020.com/video/m3u8/2022/12/17/39c3284f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2212/D-121110515010ec6b2c13.jpg",PS022.天音美纱.飞镖店搭讪美乳少女
+https://t33.cdn2020.com/video/m3u8/2022/12/09/52cf4cfc/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2212/D-120G11F607bd9a25391.jpg",PS021.冰室梨花.性感女技师上门服务
+https://t33.cdn2020.com/video/m3u8/2022/12/04/d7f3c5a4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/D-112F50340619a2625K9.jpg",PS020.南兰.车站搭讪金发辣妹
+https://t33.cdn2020.com/video/m3u8/2022/11/26/0ddf691f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/D-11200955407cc0192E44.jpg",PS019.吉冈双叶.S极神舌连续榨精
+https://t33.cdn2020.com/video/m3u8/2022/11/18/da19589c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/D-111309241355C3224J3.jpg",PS018.七原菜菜子.约见性欲超强大学生
+https://t33.cdn2020.com/video/m3u8/2022/11/11/472f74b4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/2-22110FU2190-L.jpg",PS017.中条爱莉.激情3P黑丝巨乳家政妇
+https://t33.cdn2020.com/video/m3u8/2022/11/08/95f1a25c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/2210/2-2210300GIQS.jpg",PS016.莫奈.保时捷美女修车记
+https://t33.cdn2020.com/video/m3u8/2022/10/29/5f43a69c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2210/2-2210231002310-L.jpg",PS015.小泽爱丽丝.搭讪混血兔女郎
+https://t33.cdn2020.com/video/m3u8/2022/10/21/68a4f7ef/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2210/2-22101FR9540-L.jpg",PS014.高岛薰.遭遇调教女王
+https://t33.cdn2020.com/video/m3u8/2022/10/16/a95b9c0e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2210/2-2210110U2040-L.jpg",PS013.藤田美绪.搭讪风骚女邻居
+https://t33.cdn2020.com/video/m3u8/2022/10/08/7f62c79e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2210/2-2210030926040-L.jpg",PS012.椎名未央.欲求不满上门求操
+https://t33.cdn2020.com/video/m3u8/2022/10/01/b49f0bc6/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209260926310-L.jpg",PS011.濑户杏奈.上门服务童贞毕业
+https://t33.cdn2020.com/video/m3u8/2022/09/25/50b68110/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://mynewtutu.com/bbs/forum/202510/07/095529rz4jnk40gf14jw1k.jpg",PS010.樱井美里.一部手机带来的缘分巨乳大学生
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tz/PS010/output.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209111142240-L.jpg",PS009.浅尾美羽.搭讪清纯高中生
+https://t33.cdn2020.com/video/m3u8/2022/09/10/b3b3ae52/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-220Z51015000-L.jpg",PS008.绫波丽.搭讪最美女神
+https://t33.cdn2020.com/video/m3u8/2022/09/03/aaed3a9e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://sumaho-de-adlut.site/wp-content/uploads/2024/02/czM6Ly9yb3V2L2hscy9jbDdkb29jbjEwMzkwMTJmenZhZWFpb3l2L2NvdmVyLmpwZw.jpg",PS007.浅仓静香.搭讪巨乳美少女
+https://t33.cdn2020.com/video/m3u8/2022/08/26/26479221/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220822/2-220R20925490-L.jpg",PS006.小林杏.公园搭讪巨乳寂寞姐姐
 https://60frt.cdnedge.live/file/avple-images/hls/63018b40d6416a30fa9bdc68/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",PS005.
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220822/2-220R2091G50-L.jpg",PS005.竹下麻衣.搭讪性感纹身大学生
+https://t33.cdn2020.com/video/m3u8/2022/08/14/dfd989c8/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220727/2-220HG04J60-L.jpg",PS004.神谷怜.街头搭讪酒后少女
+https://t33.cdn2020.com/video/m3u8/2022/07/25/4aa05fbb/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220716/2-220G60912130-L.jpg",PS003.铃木美樱.海边搭讪多情女高中生
+https://t33.cdn2020.com/video/m3u8/2022/07/15/fcd2e462/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220703/2-220F31055070-L.jpg",PS002.七濑恋.搭讪早稻田女大学生
+https://t33.cdn2020.com/video/m3u8/2022/07/01/834908c0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220619/2-2206191144390-L.jpg",PS001.真希波.搭讪20岁性感日本辣妹
+https://t33.cdn2020.com/video/m3u8/2022/06/17/3f7bea72/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",PS004.
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",PS003.
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",PS002.
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",PS001.真希波.
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://erodouga-beam.com/wp-content/uploads/2024/12/YSCM-121.webp",YSCM-121.月野静.强上偷情嫂子
 https://ja34l1.cdnedge.live/file/avple-asserts/hls/655b229580ac5d28030357ee/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/04/1682424783-6e00e92a978f2c6.png",YSCM-103.白川麻衣.女儿的诱惑
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/644d0920cbc2873753d0d27a/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",YSCM
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
@@ -2845,7 +2905,7 @@ https://u89ey1.cdnedge.live/file/avple-asserts/hls/644d0920cbc2873753d0d27a/play
 
 
 ##精东影业
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-0206100R25349622H02.jpg",JDKR055.JDKR055.羽濑纱织.人妻专属毒龙极上体验
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-0206100R25349622H02.jpg",JDKR055.羽濑纱织.人妻专属毒龙极上体验
 https://t26.cdn2020.com/video/m3u8/2024/02/04/2cd839e0/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-020409545Wc52dRZV.jpg",JDKR054.小泽爱丽丝.混血女网友和我在酒店的第一次约会
 https://t26.cdn2020.com/video/m3u8/2024/01/28/8f7a551f/index.m3u8
@@ -2853,23 +2913,31 @@ https://t26.cdn2020.com/video/m3u8/2024/01/28/8f7a551f/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2024/01/28/89f62231/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2401/D-012H24I3e9a64421Z8.jpg",JDKR052.青木澪.与大阪女网友奔现东京酒店
 https://t26.cdn2020.com/video/m3u8/2024/01/24/f5a0f5c4/index.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR051.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR050.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR049.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR048.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR047.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR046.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR045.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR044.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR043.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR042.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR041.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR040.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR039.
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://erokaeru.jp/wp-content/uploads/2023/12/kkkkkkkkkkkkkkkk.jpg",JDKR038.月野静.抗日奇侠.我的痴女家庭教师
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/jd/JDKR038/output.m3u8
@@ -2897,7 +2965,7 @@ https://t33.cdn2020.com/video/m3u8/2023/04/14/3a8ccd5d/index.m3u8
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR026.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://img165.imagehaha.com/th/55163/7f2y7sh0inq2.jpg",JDKR025.斋藤丽.抗日.停水女邻居
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://img165.imagehaha.com/th/55163/7f2y7sh0inq2.jpg",JDKR025.齐藤丽.抗日.停水女邻居
 https://l87ul1.cdnedge.live/file/avple-asserts/hls/641ca258cf75e7095df45f12/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDKR024.
 
@@ -2959,36 +3027,537 @@ https://l87ul1.cdnedge.live/file/avple-asserts/hls/655ffe2a4bbeff7436d2efd9/play
 https://1xp601.cdnedge.live/file/avple-asserts/hls/6559f0031418a6331a3bdb82/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDXYX
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDXYX
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDXYX
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDXYX
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDXYX
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209210T5240-L.jpg",JDYP042.林思妤.约啪HOT到家
+https://t33.cdn2020.com/video/m3u8/2022/09/19/c11321f5/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209210T5430-L.jpg",JDYP041.坏坏.双向补充蛋白质
+https://t33.cdn2020.com/video/m3u8/2022/09/19/bb0c6d8b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209161132520-L.jpg",JDYP040.七濑恋.哟啪游戏女陪玩
+https://t33.cdn2020.com/video/m3u8/2022/09/14/0cd286db/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP039.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP038.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP037.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP036.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP035.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP034.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP033.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220802/2-220P21033140-L.jpg",JDYP032.凌波丽.约啪网红
+https://t33.cdn2020.com/video/m3u8/2022/07/31/4e21c24e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP031.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP030.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP029.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP028.
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2208/2-220R61105070-L.jpg",JDYP027.广濑流奈.约啪人妻
 https://10j99.cdnedge.live/file/avple-images/hls/6304edf8e692793bd5141ef6/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP026.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP025.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP024.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP023.
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP022.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP021.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP020.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP019.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP018.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP017.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP016.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP015.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP014.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP013.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP012.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDYP011.
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220618/2-22061Q000130-L.jpg",JDYP010.吉吉.情侣约啪大考验
+https://t33.cdn2020.com/video/m3u8/2022/06/16/0920f0b9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220618/2-22061Q000370-L.jpg",JDYP009.KK.纪实司机约啪嫩模
+https://t33.cdn2020.com/video/m3u8/2022/06/17/e31152e6/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220610/2-2206100Q0100-L.jpg",JDYP008.安安.妻子帮丈夫约炮
+https://t33.cdn2020.com/video/m3u8/2022/06/09/8984ddd5/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220606/2-2206061002560-L.jpg",JDYP007.Aida.农民工约啪小嫩妹
+https://t33.cdn2020.com/video/m3u8/2022/06/05/1a58872a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220604/2-2206040915490-L.jpg",JDYP006.夏夏.嗑药男爆操约啪妹
+https://t26.cdn2020.com/video/m3u8/2022/06/02/506009bc/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220601/2-2206010U2560-L.jpg",JDYP005.李可欣.约啪约到班花
+https://t26.cdn2020.com/video/m3u8/2022/05/31/027a16c0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220530/2-2205300943420-L.jpg",JDYP004.米娅.约啪约到了大嫂
+https://t26.cdn2020.com/video/m3u8/2022/05/28/0339ce39/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220529/2-2205291000520-L.jpg",JDYP003.冬月结衣.我用约啪约到日本妹子
+https://t26.cdn2020.com/video/m3u8/2022/05/26/2549cca0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220527/2_052F62133NN.jpg",JDYP002.瑶瑶.约炮约到初恋女友
+https://t26.cdn2020.com/video/m3u8/2022/05/24/2e179fa7/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220425/2_0425092R349D.jpg",JDYP001.林凤娇.屌丝男约炮车模
+https://1xp60.cdnedge.live/file/avple-images/hls/6266844f6fc93733f74fd858/playlist.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/a8/a8044d48179aa276e296ebe0ae9f937a.jpg",JD155.伦敦森林EP02
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/jd/JD155/output.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/e1/e1d336a850b20ebe12b52668426fc51a.jpg",JD154.绫波丽.性游记EP03.箱根之旅
+https://sav222.com/api/m3u8/p/0131ae221aa89a82d0b25d827985e781.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/1b/1bf6e1d92c4d26c88ebf81ecf8b5949d-small.jpg",JD153.伊东水濑.性游记EP02.横滨篇
+https://t33.cdn2020.com/video/m3u8/2024/08/25/88d0220d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/46/46a1a81e428fee96788f0d719d7bf0e5.jpg",JD152.月野静.性游记EP01.伊豆之旅
+https://sav222.com/api/m3u8/p/f62577aaba5b661d2035f9d19dee6522.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/98/9832207d10ae061bc36438f1f1bfc386-small.jpg",JD151.伦敦森林EP01
+https://t33.cdn2020.com/video/m3u8/2024/08/14/175070ec/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2305/D-051ZZIE7c6a329A3.jpg",JD150.苡若.十三号星期五.性爱杰森02
+https://t33.cdn2020.com/video/m3u8/2023/05/18/e95e469e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2305/D-0514102550ebCfH1329.jpg",JD149.苡若.十三号星期五.性爱杰森01
+https://t33.cdn2020.com/video/m3u8/2023/05/13/26a0e2c1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2305/D-051111113U5O8c2L17.jpg",JD148.心萱.就算被老公发现也没关系.我和公公是真爱
+https://t33.cdn2020.com/video/m3u8/2023/05/10/2c10c9be/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2305/D-05010PZ6aePfd260U.jpg",JD147.可菲.新娘结婚日让新郎戴绿帽
+https://t33.cdn2020.com/video/m3u8/2023/04/29/4ecf27a8/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-042Z55U514dbM2A01.jpg",JD146.晨曦.超级电脑工具人02
+https://t33.cdn2020.com/video/m3u8/2023/04/28/2081b625/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0422100519392Wb2HK.jpg",JD144.香月怜.冲绳旅行.下集
+https://t33.cdn2020.com/video/m3u8/2023/04/20/2168b8a6/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0419152423Oc59c21D2.jpg",JD143.MOMO.童子军在捷运失去童子身
+https://t33.cdn2020.com/video/m3u8/2023/04/18/4a3de4f0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0419151F4e9343f234C.jpg",JD142.晨曦.超级电脑工具人01
+https://t33.cdn2020.com/video/m3u8/2023/04/18/23f91fd4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-040Z95949a92bT25048.jpg",JD141.香月怜.冲绳旅行.上集
+https://t33.cdn2020.com/video/m3u8/2023/04/09/5bc70b69/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-0409100010b611425422.jpg",JD140.昀希.欢乐小丑的性幻想02
+https://t33.cdn2020.com/video/m3u8/2023/04/09/320b3f96/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-040322113Fdf2242E46.jpg",JD139.心萱.世界末日前夕的最后性爱
+https://t33.cdn2020.com/video/m3u8/2023/04/02/6392e284/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2304/D-040123595Tcc03R3151.jpg",JD138.心萱.确诊了还是想做爱
+https://t33.cdn2020.com/video/m3u8/2023/03/31/ef942b2c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2303/D-032PJ334Kafba25339.jpg",JD137.昀希.欢乐小丑的性幻想01
+https://t33.cdn2020.com/video/m3u8/2023/03/27/93ddb7de/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2303/D-032010344TXa7e261c.jpg",JD136.心萱.好想征服我那霸道的女朋友
+https://t33.cdn2020.com/video/m3u8/2023/03/19/10917196/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2303/D-03140S10120b9eb2YV.jpg",JD135.坏坏.男宠服侍刚下班的老婆大人
+https://t33.cdn2020.com/video/m3u8/2023/03/12/10b6b09e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2301/D-011ZZ058e6ded42b46.jpg",JD134.心萱.夺回秋雅
+https://t33.cdn2020.com/video/m3u8/2023/01/16/e24a91ad/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2212/D-12041216393Nf5f2H23.jpg",JD133.小雪.实习生的抉择
+https://t33.cdn2020.com/video/m3u8/2022/12/01/7649638b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2209/2-2209210T6200-L.jpg",JD132.汁汁.大嫂的叹息
+https://t33.cdn2020.com/video/m3u8/2022/09/19/8f160f78/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220727/2-220HG040040-L.jpg",JD131.樱井美里.浅尾美羽.江之岛恋人(下)
+https://t33.cdn2020.com/video/m3u8/2022/07/27/c3d050cc/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220620/2-2206201049540-L.jpg",JD130.桥本爱菜.真希波.藤田美绪.高桥熏.夜勤病栋(下)
+https://t33.cdn2020.com/video/m3u8/2022/06/19/5580662c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220718/2-220GQ053340-L.jpg",JD129.樱井美里.浅尾美羽.江之岛恋人(上)
+https://t33.cdn2020.com/video/m3u8/2022/07/18/dca25287/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220802/2-220P21032540-L.jpg",JD128.吉吉.麻辣教师GTO
+https://t33.cdn2020.com/video/m3u8/2022/07/31/cac99c1f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220629/2-22062ZRT40-L.jpg",JD127.樱井美里.圣地巡礼之搭讪波霸
+https://t33.cdn2020.com/video/m3u8/2022/06/30/8dd79fe3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://picatt.52av.one/attachments/forum/202206/24/155126ruao7cac1n5a75i4.jpg",JD126.七濑恋.怦然心动的小姐姐
+https://t33.cdn2020.com/video/m3u8/2022/06/22/14d48528/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220613/2-220613091R80-L.jpg",JD125.米娅.复仇者联盟.神奇女侠VS美国队长
+https://t33.cdn2020.com/video/m3u8/2022/06/13/80727673/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220613/2-220613091P50-L.jpg",JD124.Aida.美少妇被美容师套路奸
+https://t33.cdn2020.com/video/m3u8/2022/06/13/5428b839/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220609/2-2206091330160-L.jpg",JD123.中出内射亲表姐.悄悄上了喜爱裸睡表姐的床
+https://t33.cdn2020.com/video/m3u8/2022/06/09/a4d7884f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220606/2-2206061001360-L.jpg",JD122.夜勤病栋(上)
+https://t33.cdn2020.com/video/m3u8/2022/06/05/e3e65202/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220605/2-2206050U4470-L.jpg",JD121.桥本爱菜.父子轮啪家庭教师
+https://t33.cdn2020.com/video/m3u8/2022/06/04/f18193c3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220602/2-2206020AZ40-L.jpg",JD120.优优.你是我的眼之为爱献身
+https://t26.cdn2020.com/video/m3u8/2022/06/01/fdb0b2b4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220605/2-2206050U6110-L.jpg",JD119.苏小小.隐退作品.你是我的眼
+https://t33.cdn2020.com/video/m3u8/2022/06/04/fbc6deb2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220601/2-2206010U2320-L.jpg",JD118.神谷怜.精东女仆调教手册
+https://t26.cdn2020.com/video/m3u8/2022/05/31/9f857389/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220529/2-2205291001130-L.jpg",JD117.绫波丽.我与上司的不伦之恋.为求上位主动献身
+https://t26.cdn2020.com/video/m3u8/2022/05/28/59486737/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220527/2_052F615453407.jpg",JD116.欣欣.闷骚人妻欲求不满3
+https://t26.cdn2020.com/video/m3u8/2022/05/25/5bef3e8e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://imgpile.com/images/RFoRLk.jpg",JD115.露露.地主家的傻儿子
+https://i3qss.cdnedge.live/file/avple-images/hls/628a3b0aa1c1cd0b44683ef2/playlist.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220520/2_052010450b101.jpg",JD114.张雨欣.精东捡尸人.酒吧门口偶遇精神小妹.带回酒店连操两次
+https://t26.cdn2020.com/video/m3u8/2022/05/15/6bf50497/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220517/2_051G22913Oa.jpg",JD113.瑶瑶.不良教师.清纯学妹惨遭麻辣教师调教
+https://t26.cdn2020.com/video/m3u8/2022/05/15/6bf50497/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220508/2_050Q1114CC1.jpg",JD112.桥本爱奈.转角遇见你.结婚七年之痒出轨人妻
+https://t26.cdn2020.com/video/m3u8/2022/05/08/c3b94e13/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220507/2_050FS92144H.jpg",JD111.欣欣.我的少女时代
+https://240311.sl3split.com/20240705/C30dZwi9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220503/2_0503095I1D25.jpg",JD110.冬月结衣.又到樱花绽放时
+https://t26.cdn2020.com/video/m3u8/2022/05/01/623ec2df/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220501/2_0501094K43493.jpg",JD109.朵朵.我被男闺蜜肛了
+https://t26.cdn2020.com/video/m3u8/2022/04/30/8e03f9bc/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220425/2_0425092U01508.jpg",JD108.真希波.出轨富二代.老公无能不能满足
+https://t26.cdn2020.com/video/m3u8/2022/04/25/1c6637f3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://picatt.52av.one/attachments/forum/202208/13/165330wf6zav6nzronom4u.jpg",JD107.王晶晶.我的炮友是亲姐
+https://t33.cdn2020.com/video/m3u8/2022/08/11/670d3f22/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220418/2_041PR10094A.jpg",JD106.雯子.女子凌辱学院.奈奈篇
+https://t26.cdn2020.com/video/m3u8/2022/04/17/25c98c31/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220418/2_041PRQ4H15.jpg",JD105.董欣.精东按摩院.第一人称视角带你身临其境感受极致体验
+https://t26.cdn2020.com/video/m3u8/2022/04/15/0ded9797/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220411/2_04110U4346391.jpg",JD104.妲己.舔狗的逆袭.人气高冷女神
+https://t26.cdn2020.com/video/m3u8/2022/04/09/1366ac90/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220409/2_040Z9223233H.jpg",JD103.浅野美羽.提枪上阵为国争光.岛国偶遇失恋女神
+https://t26.cdn2020.com/video/m3u8/2022/04/08/16aad086/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220404/2_0404103950N21.jpg",JD102.小影.波霸总监是我妹
+https://t26.cdn2020.com/video/m3u8/2022/04/03/df3306e4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://imgpile.com/images/RMpbgx.jpg",JD101.我的炮友是亲身母亲
+https://pg2z71.cdnedge.live/file/avple-asserts/hls/63e4ee7372d51e77e837515b/playlist.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211227/2_122FZF61b4.jpg",JD100.苏小小.疫情无情人间有情
+https://t26.cdn2020.com/video/m3u8/2021/12/26/505a7365/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220103/2_01031125462Y0.jpg",JD099.克莱儿.婉婉.知画.林凤娇.权利的游戏
+https://2nm9j.cdnedge.live/file/avple-images/hls/61d0c67d8ec5397ce0e2cdec/playlist.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220325/2_03250U4501393.jpg",JD098.贝琳娜.我的炮友是后妈
+https://t26.cdn2020.com/video/m3u8/2022/03/24/89f99785/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220321/2_03210G05C596.jpg",JD097.七濑恋.妹妹的性教育.哥哥偷看AV妹妹献身说教
+https://t26.cdn2020.com/video/m3u8/2022/03/20/55c1208e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220314/2_03140J523M43.jpg",JD096.张晴.闷骚人妻欲求不满2
+https://t26.cdn2020.com/video/m3u8/2022/03/13/5f464ee9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220313/2_03131002313005.jpg",JD095.芳芳.我的老公在乌克兰.闷骚人妻借酒消愁
+https://t26.cdn2020.com/video/m3u8/2022/03/12/cec61966/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220327/2_032G12153E23.jpg",JD094.琪琪.青春男女18禁关系
+https://t26.cdn2020.com/video/m3u8/2022/03/27/b505e7e4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220228/2_022P9123C2J.jpg",JD093.绫波丽.街头搭讪岛国美女.自慰高潮主动求爱
+https://t26.cdn2020.com/video/m3u8/2022/03/02/5da2d0a8/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220201/2_02011146461324.jpg",JD092.七七.玩弄女主播
+https://t26.cdn2020.com/video/m3u8/2022/01/31/9c544b83/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://qpic.ws/images/2022/09/07/YGPg5c.jpg",JD091.林凤娇.我唾弃你的坟墓
+https://t26.cdn2020.com/video/m3u8/2022/01/16/a3af6175/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220109/2_010Z95K93G7.jpg",JD090.宁宁.淫乱一家人.母女激情群P火热互动轮番内射
+https://t26.cdn2020.com/video/m3u8/2022/01/08/7c05ab2c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211220/2_1220101050F32.jpg",JD089.萧悦儿.万万没想到之魔法少女
+https://t26.cdn2020.com/video/m3u8/2021/12/19/6c8b7a2f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211217/2_121G311152Y4.jpg",JD088.唐月琴.逆袭的保姆
+https://t26.cdn2020.com/video/m3u8/2021/12/16/0c5e5c99/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211215/2_12151040123236.jpg",JD087.小舞.空姐阿莲的合租生活
+https://t26.cdn2020.com/video/m3u8/2021/12/14/70aea41b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211212/2_12121034063143.jpg",JD086.张晴.黑道大姐心2
+https://t26.cdn2020.com/video/m3u8/2021/12/10/258bb840/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211206/2_12060G9139336.jpg",JD085.兄弟情深.一起3P京城第一名妓
+https://t26.cdn2020.com/video/m3u8/2021/12/05/292cbbbd/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211206/2_12060GIB114.jpg",JD084.林凤娇.屌丝逆袭之农民工
+https://t26.cdn2020.com/video/m3u8/2021/12/02/34db055d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211130/2_11301434432U9.jpg",JD083.婉婉.斗罗大陆.比比东大人万岁
+https://t26.cdn2020.com/video/m3u8/2021/11/28/fce4ea6a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211125/2_11251A12L593.jpg",JD082.我爱约炮.兄弟三人玩三通.
+https://t26.cdn2020.com/video/m3u8/2021/11/25/72353c09/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211122/2_1122102Q2A17.jpg",JD081.辣辣.小鹿.吸精九尾狐
+https://t26.cdn2020.com/video/m3u8/2021/11/21/a56fabb0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211122/2_1122102T15b6.jpg",JD080.婉婉.JK萌妹爱家教.学习勾引老师
+https://t26.cdn2020.com/video/m3u8/2021/11/19/18c61c76/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211119/2_11191106331440.jpg",JD079.萧悦儿.颅内高潮.臭哥哥把人家弄痛了
+https://t26.cdn2020.com/video/m3u8/2021/11/17/7540a1a9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211116/2_111614242124F.jpg",JD078.王小思.闷骚人妻欲求不满.制服调教
+https://t33.cdn2020.com/video/m3u8/2021/11/15/837baaaf/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211114/2_111412191IY0.jpg",JD077.张晴.黑道大姐心
+https://t33.cdn2020.com/video/m3u8/2021/11/13/14ffd03b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211112/2_1112103505JW.jpg",JD076.可可.我是绿帽奴
+https://t33.cdn2020.com/video/m3u8/2021/11/11/f4ba3946/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211108/2_110Q159336425.jpg",JD075.梁如意.美丽的儿媳.儿子不行就让我这公公满足你
+https://t33.cdn2020.com/video/m3u8/2021/11/07/6c34d96c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211105/2_11050TZ121W.jpg",JD074.夏夏.美丽的继母
+https://t33.cdn2020.com/video/m3u8/2021/11/04/9dfa315a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211101/2_11010R9404N2.jpg",JD073.巨屌调教嫩女.3P无套内射后入
+https://t33.cdn2020.com/video/m3u8/2021/10/31/10665b8a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211031/2_103110311391C.jpg",JD072.小白.金瓶梅.西门大官人奴家还要
+https://t33.cdn2020.com/video/m3u8/2021/10/30/d9f6e2bb/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211023/2_10231K1053943.jpg",JD071.小美.咒怨之诅咒之家
+https://t33.cdn2020.com/video/m3u8/2021/10/22/c90c9fcf/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211004/2_1004041F14b2.jpg",JD070.克莱儿.万万没想到之白蛇传
+https://t33.cdn2020.com/video/m3u8/2021/10/02/8a0dfe62/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020GG51608.jpg",JD069.强上学生的姐姐.当美女姐姐遇上渣男老师
+https://t33.cdn2020.com/video/m3u8/2021/09/30/836eb99d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211019/2_101Z934535U2.jpg",JD068.晓晓.Summer.赤裸特工
+https://t33.cdn2020.com/video/m3u8/2021/10/17/cd2d8158/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211019/2_101Z935214039.jpg",JD067.小敏.小楠.上错花轿嫁对郎(下)
+https://t33.cdn2020.com/video/m3u8/2021/10/14/363040d1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020GJ341P.jpg",JD066.小楠.上错花轿嫁对郎(上)
+https://t33.cdn2020.com/video/m3u8/2021/09/28/1bee93b7/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020GPBZ8.jpg",JD065.布玛.囡囡.东北往事之白虎
+https://t33.cdn2020.com/video/m3u8/2021/09/27/98c5d218/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020GT91331.jpg",JD064.杨思敏.嫦娥奔月.但愿人长久千里共婵娟
+https://t33.cdn2020.com/video/m3u8/2021/09/23/58df1fec/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020GRM1P.jpg",JD063.乐乐.健身性爱
+https://t33.cdn2020.com/video/m3u8/2021/09/25/7bd55242/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020G9114L0.jpg",JD062.林雨露.东北往事之仙人跳
+https://t33.cdn2020.com/video/m3u8/2021/09/21/209a56a3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020G93T122.jpg",JD061.囡囡.东北往事之性爱风云
+https://t33.cdn2020.com/video/m3u8/2021/09/19/ed5b849e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020H0416221.jpg",JD060.知画.兄弟的老婆之水中情
+https://t33.cdn2020.com/video/m3u8/2021/09/15/c3993c5a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020H10353B.jpg",JD059.杨思敏.百万交易.当你有钱时我的心里已经住着别人
+https://t33.cdn2020.com/video/m3u8/2021/09/12/d521106a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020H1255064.jpg",JD058.囡囡.知画.邻家母女之隔壁张叔给我破处
+https://t33.cdn2020.com/video/m3u8/2021/09/07/50e31fd9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/211002/2_10020H2105c1.jpg",JD057.夏天.我的绿茶女友
+https://t33.cdn2020.com/video/m3u8/2021/09/05/4299e70d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210905/2_0Z50Z45aC5.jpg",JD056.真子丹面试女粉丝
+https://t33.cdn2020.com/video/m3u8/2021/08/31/cd70c10e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00FG4F56.jpg",JD055.凌雨萱.黑道风云之黑吃黑
+https://t33.cdn2020.com/video/m3u8/2021/08/28/5a092b4b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00F95BW8.jpg",JD054.虞姬.我的闺蜜是个GAY
+https://t26.cdn2020.com/video/m3u8/2021/08/19/d971f701/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G0203164.jpg",JD053.许诺.妹团之人类高质量女性相亲记
+https://t26.cdn2020.com/video/m3u8/2021/08/18/e318b697/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G0442Y1.jpg",JD052.克莱儿.迷奸.为了工程主动送上女友
+https://t26.cdn2020.com/video/m3u8/2021/08/17/03eb1a4a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G1114429.jpg",JD051.凌雨萱.轮奸强势女上司
+https://t26.cdn2020.com/video/m3u8/2021/08/14/f9d39dcd/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G1415935.jpg",JD050.艾咪.我的乞丐男友.男友出轨处子之身献身乞丐
+https://t26.cdn2020.com/video/m3u8/2021/08/12/5e85a14b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G2402961.jpg",JD049.露西.人类高质量男性相亲记.D杯美女相亲遇渣男
+https://t26.cdn2020.com/video/m3u8/2021/08/10/60b06cfe/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G30c440.jpg",JD048.秋霞.少妇为救老公.色诱王局长
+https://t26.cdn2020.com/video/m3u8/2021/08/09/db8c9ec4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G33S534.jpg",JD047.克莱儿.百变女神克莱尔.我的老师为何这么好看
+https://t26.cdn2020.com/video/m3u8/2021/08/06/8b4720e4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G40N260.jpg",JD046.凌雨萱.原始社会好.美女考古博士梦回石器时代
+https://t26.cdn2020.com/video/m3u8/2021/08/05/c3e069ef/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G4335K7.jpg",JD045.艾咪.花花.妈妈咪呀.真实母女上演乱伦大战
+https://t26.cdn2020.com/video/m3u8/2021/08/01/e9601aba/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G500E06.jpg",JD044.克莱儿.诱惑ID.多重人格为爱而欲
+https://t26.cdn2020.com/video/m3u8/2021/07/30/fec11c5e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G5231Y1.jpg",JD043.秋霞.妹团有你之女子图鉴.风尘女子从良再下海
+https://t26.cdn2020.com/video/m3u8/2021/07/29/dd11ae5a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210830/2_0S00G54b134.jpg",JD042.艾咪.我不是赌神
+https://t26.cdn2020.com/video/m3u8/2021/07/25/f3a42966/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4064101D10.jpg",JD040.艾咪.克莱儿.找替身.女鬼化身租客
+https://t33.cdn2020.com/video/m3u8/2021/07/18/35fc4d31/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210711/2_0G10Z14C632.jpg",JD039.雪见.爸爸谢谢你收养我
+https://t33.cdn2020.com/video/m3u8/2021/07/10/224efe31/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210710/2_0G0091I151U.jpg",JD038.玲珑.雪见.雪卉.苏小小.轮回酒店.生死轮回能否逃离宿命回归现实
+https://t33.cdn2020.com/video/m3u8/2021/07/04/174b39a1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210709/2_0FZT14X560.jpg",JD036.雪见.倚天屠龙记
+https://t33.cdn2020.com/video/m3u8/2021/06/26/353a4cb3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210709/2_0FZRR09430.jpg",JD035.苏小小.我的学生时代
+https://t33.cdn2020.com/video/m3u8/2021/06/21/f3b838ff/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210708/2_0FPJ2103009.jpg",JD034.苏小小.雪卉.借种.两大人气女神.双飞体验轮番内射
+https://t33.cdn2020.com/video/m3u8/2021/06/15/78ee0782/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210708/2_0FPH62162V.jpg",JD033.雪卉.天龙八部之逍遥圣女
+https://t33.cdn2020.com/video/m3u8/2021/06/10/c2c29fb8/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210707/2_0FF9142A639.jpg",JD032.秦可欣.草莓味ㄦ林家小妹
+https://t33.cdn2020.com/video/m3u8/2021/05/28/5df7449d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210707/2_0FF91G234M.jpg",JD031.苏小小.出轨的妻子
+https://t33.cdn2020.com/video/m3u8/2021/06/05/3b589214/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40644059357.jpg",JD030.胡蓉蓉.唐昕怡.叶梦语.性球大战
+https://t33.cdn2020.com/video/m3u8/2021/05/31/2bd92221/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H406444R006.jpg",JD029.苏小小.女间谍7号
+https://t33.cdn2020.com/video/m3u8/2021/05/23/8b3e033a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40646232426.jpg",JD028.胡蓉蓉.西舔取精之女儿国
+https://t33.cdn2020.com/video/m3u8/2021/05/13/06f565f4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40645113A9.jpg",JD027.苏小小.神雕侠侣
+https://t33.cdn2020.com/video/m3u8/2021/05/21/8effedc1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4064533P63.jpg",JD026.叶梦语.西舔取精之三操白骨精
+https://t33.cdn2020.com/video/m3u8/2021/05/20/dfe2194f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4064RI509.jpg",JD025.雪见.叛逆学生.老师你好帅不要离开我
+https://t33.cdn2020.com/video/m3u8/2021/05/10/270ec6b8/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210706/2_0F606112N639.jpg",JD024.胡蓉蓉.叶梦语.性尸走肉
+https://t33.cdn2020.com/video/m3u8/2021/05/16/7e82efc5/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4064U4U01.jpg",JD023.雪见.过户.为了婚房委曲求全
+https://t33.cdn2020.com/video/m3u8/2021/05/09/8f845633/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H406492H563.jpg",JD022.玲珑.苏小小.众筹夺花魁.三重帝王梦
+https://t33.cdn2020.com/video/m3u8/2021/04/18/5c1ab2de/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210703/2_0F31030402C1.jpg",JD020.玲珑.色诱技师
+https://t33.cdn2020.com/video/m3u8/2021/04/15/de8a748f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A13W232.jpg",JD019.苏小小.小姨子与植物人姐夫
+https://t33.cdn2020.com/video/m3u8/2021/04/11/99284479/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A2063S1.jpg",JD018.苏小小.房东与房客
+https://t33.cdn2020.com/video/m3u8/2021/04/05/128a50d2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A23V442.jpg",JD017.雪卉.那一夜.那个女孩上了我老婆的床
+https://t33.cdn2020.com/video/m3u8/2021/04/03/b44cc42c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A105V95.jpg",JD016.胡蓉蓉.葫芦娃
+https://t33.cdn2020.com/video/m3u8/2021/04/12/1830260d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A309E41.jpg",JD015.雪见.销售美女的成功之路
+https://t33.cdn2020.com/video/m3u8/2021/03/27/cc92d1fc/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A33J425.jpg",JD014.玲珑.我的性感小姨
+https://t33.cdn2020.com/video/m3u8/2021/02/20/f86fe613/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40A4013I1.jpg",JD013.玲珑.我的机器人女友
+https://t33.cdn2020.com/video/m3u8/2021/02/19/d19743e2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210609/2_0609101945XE.png",JD012.张芸熙.精东新闻播报台.玩弄巨乳女主播
+https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H406312OS5.jpg",JD011.雪卉.丝丝.玲珑.雪见.屌丝逆袭之民国传奇
+https://t33.cdn2020.com/video/m3u8/2021/02/12/a9289893/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40632154322.jpg",JD010.小悠.初为人妻
+https://t33.cdn2020.com/video/m3u8/2021/02/07/0c35b689/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210609/2_060910205GE5.jpg",JD009.雪见.爸爸的爱
+https://t33.cdn2020.com/video/m3u8/2021/02/02/c1d93e76/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H40633011916.jpg",JD008.苏小小.那些年一起追过的女孩
+https://t33.cdn2020.com/video/m3u8/2021/01/30/9de97193/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210629/2_062Z6025914I.jpg",JD007.雪卉.妹妹的爱
+https://t33.cdn2020.com/video/m3u8/2021/01/23/6bb3a512/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4063352D31.jpg",JD006.兮颜.我的家教老师
+https://t33.cdn2020.com/video/m3u8/2021/01/21/d77485f9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H406341493O.jpg",JD005.雪见.叔叔与侄女
+https://t33.cdn2020.com/video/m3u8/2021/01/21/3b0a7436/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4063R4c96.jpg",JD004.雪卉.欠债还性
+https://t33.cdn2020.com/video/m3u8/2021/01/13/a397bae2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210724/2_0H4063U06129.jpg",JD003.苏小小.姐姐的爱
+https://t33.cdn2020.com/video/m3u8/2021/01/12/3dbc82b2/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210628/2_062P6011032S.png",JD002.梦瑶.我的精东约炮经历
+https://t33.cdn2020.com/video/m3u8/2021/01/12/5ae041af/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210628/2_062P629501538.png",JD001.苏小小.我的老公是精东男友
+https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDMY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDMY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDMY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDMY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY040.克莱儿.囡囡.知画.艾咪.密友.第四十集
+https://t26.cdn2020.com/video/m3u8/2021/12/19/441fddc5/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY039.克莱儿.囡囡.知画.艾咪.密友.第三十九集
+https://t26.cdn2020.com/video/m3u8/2021/12/19/9259ce60/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY038.克莱儿.囡囡.知画.艾咪.密友.第三十八集
+https://t26.cdn2020.com/video/m3u8/2021/12/19/85b73ec7/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY037.克莱儿.囡囡.知画.艾咪.密友.第三十七集
+https://t26.cdn2020.com/video/m3u8/2021/12/14/6deb5e27/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY036.克莱儿.囡囡.知画.艾咪.密友.第三十六集
+https://t26.cdn2020.com/video/m3u8/2021/12/10/39b594bd/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY035.克莱儿.囡囡.知画.艾咪.密友.第三十五集
+https://t26.cdn2020.com/video/m3u8/2021/12/10/0f29209b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY034.克莱儿.囡囡.知画.艾咪.密友.第三十四集
+https://t26.cdn2020.com/video/m3u8/2021/12/05/c38ff0fd/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY033.克莱儿.囡囡.知画.艾咪.密友.第三十三集
+https://t26.cdn2020.com/video/m3u8/2021/12/02/73485e7e/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY032.克莱儿.囡囡.知画.艾咪.密友.第三十二集
+https://t26.cdn2020.com/video/m3u8/2021/11/28/f7c17431/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY031.克莱儿.囡囡.知画.艾咪.密友.第三十一集
+https://t26.cdn2020.com/video/m3u8/2021/11/28/f7c17431/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY030.克莱儿.囡囡.知画.艾咪.密友.第三十集
+https://t26.cdn2020.com/video/m3u8/2021/11/27/cbc20182/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY029.克莱儿.囡囡.知画.艾咪.密友.第二十九集
+https://t26.cdn2020.com/video/m3u8/2021/11/25/7d85514a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY028.克莱儿.囡囡.知画.艾咪.密友.第二十八集
+https://t26.cdn2020.com/video/m3u8/2021/11/21/fcc81bf1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY027.克莱儿.囡囡.知画.艾咪.密友.第二十七集
+https://t26.cdn2020.com/video/m3u8/2021/11/19/ef05f977/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY026.克莱儿.囡囡.知画.艾咪.密友.第二十六集
+https://t26.cdn2020.com/video/m3u8/2021/11/17/1ae40ede/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY025.克莱儿.囡囡.知画.艾咪.密友.第二十五集
+https://t26.cdn2020.com/video/m3u8/2021/11/16/4c1fa607/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY024.克莱儿.囡囡.知画.艾咪.密友.第二十四集
+https://t33.cdn2020.com/video/m3u8/2021/11/13/ed4c6a33/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY023.克莱儿.囡囡.知画.艾咪.密友.第二十三集
+https://t33.cdn2020.com/video/m3u8/2021/11/11/ec12af90/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY022.克莱儿.囡囡.知画.艾咪.密友.第二十二集
+https://t33.cdn2020.com/video/m3u8/2021/11/09/c0dcb681/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY021.克莱儿.囡囡.知画.艾咪.密友.第二十一集
+https://t33.cdn2020.com/video/m3u8/2021/11/07/92be4c75/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY020.克莱儿.囡囡.知画.艾咪.密友.第二十集
+https://t33.cdn2020.com/video/m3u8/2021/11/04/94cd5f77/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY019.克莱儿.囡囡.知画.艾咪.密友.第十九集
+https://t33.cdn2020.com/video/m3u8/2021/10/31/717e47fa/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY018.克莱儿.囡囡.知画.艾咪.密友.第十八集
+https://t33.cdn2020.com/video/m3u8/2021/10/30/8e1c167a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY017.克莱儿.囡囡.知画.艾咪.密友.第十七集
+https://t33.cdn2020.com/video/m3u8/2021/10/30/42b526d0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY016.克莱儿.囡囡.知画.艾咪.密友.第十六集
+https://t33.cdn2020.com/video/m3u8/2021/10/26/8c5226ab/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY015.克莱儿.囡囡.知画.艾咪.密友.第十五集
+https://t33.cdn2020.com/video/m3u8/2021/10/22/184242a4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY014.克莱儿.囡囡.知画.艾咪.密友.第十四集
+https://t33.cdn2020.com/video/m3u8/2021/10/21/a5aecce0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY013.克莱儿.囡囡.知画.艾咪.密友.第十三集
+https://t33.cdn2020.com/video/m3u8/2021/10/19/d469c2a9/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY012.克莱儿.囡囡.知画.艾咪.密友.第十二集
+https://t33.cdn2020.com/video/m3u8/2021/10/16/d725bd04/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY011.克莱儿.囡囡.知画.艾咪.密友.第十一集
+https://t33.cdn2020.com/video/m3u8/2021/10/13/c1a8ebaf/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY010.克莱儿.囡囡.知画.艾咪.密友.第十集
+https://t33.cdn2020.com/video/m3u8/2021/10/11/d2475114/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY009.克莱儿.囡囡.知画.艾咪.密友.第九集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/dcdc678a/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY008.克莱儿.囡囡.知画.艾咪.密友.第八集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/523b6cc5/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY007.克莱儿.囡囡.知画.艾咪.密友.第七集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/b4e06e47/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY006.克莱儿.囡囡.知画.艾咪.密友.第六集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/14d7c2c3/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY005.克莱儿.囡囡.知画.艾咪.密友.第五集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/7cb48abb/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY004.克莱儿.囡囡.知画.艾咪.密友.第四集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/0a8c1bd4/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY003.克莱儿.囡囡.知画.艾咪.密友.第三集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/13668b7b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY002.克莱儿.囡囡.知画.艾咪.密友.第二集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://b23.picd232.cc/i/2023/03/15/o46l9d.jpg",JDMY001.克莱儿.囡囡.知画.艾咪.密友.第一集
+https://t33.cdn2020.com/video/m3u8/2021/10/06/b9b4b9ff/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDSY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDSY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDSY
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",JDSY
+
 
 
 
 ##星空传媒
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP158
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP157
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP156
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP155
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2409/D-0Z20GKOc5ef02J60.jpg",XKVP111.凌波丽.外卖员竟是大学同学
+https://t33.cdn2020.com/video/m3u8/2024/09/01/5fb10dda/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKVP
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/2-22110ZT2460-L.jpg",XKG054.凌波丽.给钱就干外送小妹送逼上门
+https://t33.cdn2020.com/video/m3u8/2022/11/08/9909b8c1/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",XKG
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
@@ -3148,6 +3717,46 @@ https://surrit.com/ff765c0f-0953-4c11-82ad-3b202cb61cbb/1280x720/video.m3u8
 
 
 ##天美传媒
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/29/29f24b01aa0a976a2211b6c8683069d8-small.jpg",TMTC020.布丁.性感吉他女老师的秘密约啪音符
+https://sav222.com/api/m3u8/p/57e1ea18265bbc56f08a34522c1450ce.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.2a3esh1.com/md-204/dcc-file/cd/cdbd29442c7eedcb84d10b52ada3bf51-small.jpg",TMTC019.梁幂.约啪SM调教大作战
+https://sav222.com/api/m3u8/p/5ae951a4d7d5ecf23510d27f5384dad2.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC018
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC017
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC016
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC015
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC014
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC013
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC012
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",TMTC011
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-02200619307caf462K03.jpg",TMTC010.季妍希.只有我知道女神的另一面是欲女
+https://t26.cdn2020.com/video/m3u8/2024/02/19/77839d94/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-0220061Z1J8ca42F13.jpg",TMTC009.仙儿嫒.趁老婆回娘家体验女仆服务
+https://t26.cdn2020.com/video/m3u8/2024/02/19/62521514/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-021PS5019d524e25118.jpg",TMTC008.仙儿媛.性感发小的诱惑
+https://t26.cdn2020.com/video/m3u8/2024/02/17/7dabf91b/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-021PS4311Hf9d22634.jpg",TMTC007.艾悠.控制不住情欲的骚货
+https://t26.cdn2020.com/video/m3u8/2024/02/17/566f482d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2402/D-021PS40S6b2642JH.jpg",TMTC006.艾悠.单亲人妻的魅惑
+https://t26.cdn2020.com/video/m3u8/2024/02/17/8b3f0053/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-111FFRXf6ed02N36.jpg",TMTC005.李娜娜.与双胞胎妹妹的邂逅
+https://t26.cdn2020.com/video/m3u8/2023/11/15/40632d7c/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-111FFP5T2Wa25914.jpg",TMTC004.李娜娜.偷吃禁果上瘾的兄妹
+https://t26.cdn2020.com/video/m3u8/2023/11/15/678b546d/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-111FFJ21a0c9e2C31.jpg",TMTC003.凌波丽.约会清纯校花反差婊
+https://t26.cdn2020.com/video/m3u8/2023/11/15/f46396c0/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-111FFGaa4e6a26292.jpg",TMTC002.唐芯.二次元性感小野猫极上服务
+https://t26.cdn2020.com/video/m3u8/2023/11/15/0567d99f/index.m3u8
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2311/D-111FFA5c8a40R1644.jpg",TMTC001.凌波丽.捆绑调教痴女炮友
+https://t26.cdn2020.com/video/m3u8/2023/11/15/ac9a08f1/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/09/1663068687-2c3f27bc891da34.png",TMW080.徐婕.兔女郎中秋派对.摄影会淫荡开射
 https://b3h6s.cdnedge.live/file/avple-images/hls/631eb2ae6bc6c952309e98f7/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/2211/D-11151030236eebee21310.jpg",TMW097.徐婕.与神级女优一日约会.游乐园性爱之旅
@@ -3166,10 +3775,6 @@ https://ie2ow1.cdnedge.live/file/avple-asserts/hls/63c2c13bb8cfc2366e7230e7/play
 https://sms9q1.cdnedge.live/file/avple-asserts/hls/63c2e6beb8cfc2366e7230f1/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/210610/2_0610101121bJ.jpg",TM0061.徐婕.春节返乡之旧情复燃
 https://xre5q1.cdnedge.live/file/avple-asserts/hls/63c2eb6bb8cfc2366e7230f3/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
@@ -3454,6 +4059,14 @@ https://t33.cdn2020.com/video/m3u8/2024/08/29/94f321af/index.m3u8
 
 
 ##汉生
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
+
+
+##烈
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
