@@ -101,6 +101,7 @@ Global Fashion Channel (1080p)
 Fashion TV
 FashionTV Paris L'Original (1080p)
 Fashion CZ
+FASHION ONE
 Kaloopy TV
 CARAC1（早7）
 CARAC2
@@ -162,20 +163,24 @@ MOMO综合
 纬来体育
 纬来育乐  
 ☘️国际频道,#genre#
+ABC News
+BBC News
 CNN
 CNN Headlines
 CNA
-BBC News
-ABC News Live
+DW News
+DW
+DW English
 FRANCE 24 FAST
 Bloomberg TV+
 Sky News 
 CBC News
 NBC News NOW
-DW
-DW English
+NHK World
 Al Jazeera
-LiveNOW from FOX
+Discovery HD
+Discovery Science
+Nat Geo TV
 ESPN
 BBC Series
 BBC Earth
