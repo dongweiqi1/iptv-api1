@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dongweiqi1/iptv-api1/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-08 16:27:46
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-09 18:43:10
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="☘️央视频道",CCTV-1
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
@@ -325,80 +325,80 @@ https://hls-gateway.vpstv.net/streams/477026.m3u8
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="☘️台湾频道",纬来体育
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
-https://jmp2.uk/stvp-ATBD800001VA
-#EXTINF:-1 tvg-id="76" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
-https://jmp2.uk/stvp-CHBD800001D0
-#EXTINF:-1 tvg-id="76" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
-https://jmp2.uk/stvp-DEBD800001S4
-#EXTINF:-1 tvg-id="76" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
-https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-id="76" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
-https://stream1.freetv.fun/cnn-1.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
-https://jmp2.uk/stvp-ATBD190000101
-#EXTINF:-1 tvg-id="77" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
-https://jmp2.uk/stvp-CHBD1900001JB
-#EXTINF:-1 tvg-id="77" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
-https://jmp2.uk/stvp-DEBD19000012M
-#EXTINF:-1 tvg-id="77" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
-https://jmp2.uk/stvp-ESBD190000137
-#EXTINF:-1 tvg-id="77" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
-https://jmp2.uk/stvp-FRBD190001055
-#EXTINF:-1 tvg-id="78" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1 tvg-id="78" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="☘️国际频道",BBC News
+#EXTINF:-1 tvg-id="76" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="☘️国际频道",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="☘️国际频道",BBC News
+#EXTINF:-1 tvg-id="76" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="☘️国际频道",BBC News
 https://jmp2.uk/stvp-US4000033L
-#EXTINF:-1 tvg-id="80" tvg-name="ABC News Live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC News Live.png" group-title="☘️国际频道",ABC News Live
-https://jmp2.uk/stvp-USBC39000171G
-#EXTINF:-1 tvg-id="81" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
-https://jmp2.uk/stvp-ATBD1100002TA
-#EXTINF:-1 tvg-id="81" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
-https://jmp2.uk/stvp-CHBD1100003CW
-#EXTINF:-1 tvg-id="81" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
-https://jmp2.uk/stvp-DEBD1100002II
-#EXTINF:-1 tvg-id="81" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
-https://jmp2.uk/stvp-ESBD1100001PQ
-#EXTINF:-1 tvg-id="81" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
-https://jmp2.uk/stvp-GBBD1100002L5
-#EXTINF:-1 tvg-id="82" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
-https://jmp2.uk/stvp-ATBA3300018K1
-#EXTINF:-1 tvg-id="82" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
-https://jmp2.uk/stvp-CHBA3300018TD
-#EXTINF:-1 tvg-id="82" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
-https://jmp2.uk/stvp-DEBA3300027ZJ
-#EXTINF:-1 tvg-id="82" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
-https://jmp2.uk/stvp-ESBA3300024AJ
-#EXTINF:-1 tvg-id="82" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
-https://jmp2.uk/stvp-FR1400004VF
-#EXTINF:-1 tvg-id="83" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="☘️国际频道",Sky News
-https://jmp2.uk/stvp-GB3300002NF
-#EXTINF:-1 tvg-id="83" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="☘️国际频道",Sky News
-https://jmp2.uk/stvp-USBB52000022Q
-#EXTINF:-1 tvg-id="84" tvg-name="CBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBC News.png" group-title="☘️国际频道",CBC News
-https://jmp2.uk/stvp-CABC2300009KD
-#EXTINF:-1 tvg-id="84" tvg-name="CBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBC News.png" group-title="☘️国际频道",CBC News
-https://jmp2.uk/stvp-USBC4400003OU
-#EXTINF:-1 tvg-id="85" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
-https://jmp2.uk/stvp-CAAJ2700011IF
-#EXTINF:-1 tvg-id="85" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
-https://jmp2.uk/stvp-ESBC400003YM
-#EXTINF:-1 tvg-id="85" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
-https://jmp2.uk/stvp-GBBB1500004LG
-#EXTINF:-1 tvg-id="85" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
-https://jmp2.uk/stvp-ITBC4000028E
-#EXTINF:-1 tvg-id="85" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
-https://jmp2.uk/stvp-USBB2200014DK
-#EXTINF:-1 tvg-id="86" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="☘️国际频道",DW
+#EXTINF:-1 tvg-id="77" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-ATBD800001VA
+#EXTINF:-1 tvg-id="77" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 tvg-id="77" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-DEBD800001S4
+#EXTINF:-1 tvg-id="77" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 tvg-id="77" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="☘️国际频道",CNN
+https://stream1.freetv.fun/cnn-1.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
+https://jmp2.uk/stvp-ATBD190000101
+#EXTINF:-1 tvg-id="78" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
+https://jmp2.uk/stvp-CHBD1900001JB
+#EXTINF:-1 tvg-id="78" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
+https://jmp2.uk/stvp-DEBD19000012M
+#EXTINF:-1 tvg-id="78" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
+https://jmp2.uk/stvp-ESBD190000137
+#EXTINF:-1 tvg-id="78" tvg-name="CNN Headlines" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Headlines.png" group-title="☘️国际频道",CNN Headlines
+https://jmp2.uk/stvp-FRBD190001055
+#EXTINF:-1 tvg-id="79" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-id="79" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="☘️国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="DW News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW News.png" group-title="☘️国际频道",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="☘️国际频道",DW
 https://jmp2.uk/stvp-ES1300001QC
-#EXTINF:-1 tvg-id="86" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="☘️国际频道",DW
+#EXTINF:-1 tvg-id="81" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="☘️国际频道",DW
 https://jmp2.uk/stvp-GB1300001RX
+#EXTINF:-1 tvg-id="82" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-ATBD1100002TA
+#EXTINF:-1 tvg-id="82" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-CHBD1100003CW
+#EXTINF:-1 tvg-id="82" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-DEBD1100002II
+#EXTINF:-1 tvg-id="82" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-ESBD1100001PQ
+#EXTINF:-1 tvg-id="82" tvg-name="FRANCE 24 FAST" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-GBBD1100002L5
+#EXTINF:-1 tvg-id="83" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-ATBA3300018K1
+#EXTINF:-1 tvg-id="83" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-CHBA3300018TD
+#EXTINF:-1 tvg-id="83" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-DEBA3300027ZJ
+#EXTINF:-1 tvg-id="83" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-ESBA3300024AJ
+#EXTINF:-1 tvg-id="83" tvg-name="Bloomberg TV+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-FR1400004VF
+#EXTINF:-1 tvg-id="84" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="☘️国际频道",Sky News
+https://jmp2.uk/stvp-GB3300002NF
+#EXTINF:-1 tvg-id="84" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="☘️国际频道",Sky News
+https://jmp2.uk/stvp-USBB52000022Q
+#EXTINF:-1 tvg-id="85" tvg-name="CBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBC News.png" group-title="☘️国际频道",CBC News
+https://jmp2.uk/stvp-CABC2300009KD
+#EXTINF:-1 tvg-id="85" tvg-name="CBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBC News.png" group-title="☘️国际频道",CBC News
+https://jmp2.uk/stvp-USBC4400003OU
+#EXTINF:-1 tvg-id="86" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-CAAJ2700011IF
+#EXTINF:-1 tvg-id="86" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-ESBC400003YM
+#EXTINF:-1 tvg-id="86" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-GBBB1500004LG
+#EXTINF:-1 tvg-id="86" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-ITBC4000028E
+#EXTINF:-1 tvg-id="86" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
 #EXTINF:-1 tvg-id="87" tvg-name="Al Jazeera" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
 https://jmp2.uk/stvp-ES2300004XW
 #EXTINF:-1 tvg-id="87" tvg-name="Al Jazeera" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
@@ -407,197 +407,195 @@ https://jmp2.uk/stvp-FR23000013B
 https://jmp2.uk/stvp-GB2300005ML
 #EXTINF:-1 tvg-id="87" tvg-name="Al Jazeera" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
 https://jmp2.uk/stvp-IT23000034W
-#EXTINF:-1 tvg-id="88" tvg-name="LiveNOW from FOX" tvg-logo="https://www.xn--rgv465a.top/tvlogo/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
-https://jmp2.uk/stvp-USBA300024TN
-#EXTINF:-1 tvg-id="89" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-AT2100004P1
-#EXTINF:-1 tvg-id="89" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-CH2100003MU
-#EXTINF:-1 tvg-id="89" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-DE21000031Z
-#EXTINF:-1 tvg-id="89" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
-#EXTINF:-1 tvg-id="89" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Series" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-FR2900001UF
-#EXTINF:-1 tvg-id="90" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
 https://jmp2.uk/stvp-DE3200001RI
-#EXTINF:-1 tvg-id="90" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
 https://jmp2.uk/stvp-ES3200001F1
-#EXTINF:-1 tvg-id="90" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
 https://jmp2.uk/stvp-FR3200001NQ
-#EXTINF:-1 tvg-id="90" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
 https://jmp2.uk/stvp-IT3200002L5
-#EXTINF:-1 tvg-id="90" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="☘️国际频道",BBC Earth
 https://jmp2.uk/stvp-USBD1700001RW
-#EXTINF:-1 tvg-id="91" tvg-name="BBC Travel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Travel.png" group-title="☘️国际频道",BBC Travel
+#EXTINF:-1 tvg-id="90" tvg-name="BBC Travel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Travel.png" group-title="☘️国际频道",BBC Travel
 https://jmp2.uk/stvp-DE2900001W0
-#EXTINF:-1 tvg-id="92" tvg-name="Discovery" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery.png" group-title="☘️国际频道",Discovery
+#EXTINF:-1 tvg-id="91" tvg-name="Discovery" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery.png" group-title="☘️国际频道",Discovery
 https://jmp2.uk/stvp-IT31000026G
-#EXTINF:-1 tvg-id="93" tvg-name="WWE Superstar Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WWE Superstar Central.png" group-title="☘️国际频道",WWE Superstar Central
+#EXTINF:-1 tvg-id="92" tvg-name="WWE Superstar Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WWE Superstar Central.png" group-title="☘️国际频道",WWE Superstar Central
 https://jmp2.uk/stvp-US700005ID
-#EXTINF:-1 tvg-id="94" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+#EXTINF:-1 tvg-id="93" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+#EXTINF:-1 tvg-id="93" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-ATBD1500003ES
-#EXTINF:-1 tvg-id="94" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+#EXTINF:-1 tvg-id="93" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-DEBC2300001EU
-#EXTINF:-1 tvg-id="94" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+#EXTINF:-1 tvg-id="93" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
-#EXTINF:-1 tvg-id="94" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+#EXTINF:-1 tvg-id="93" tvg-name="Red Bull TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-GBBD2300003IK
-#EXTINF:-1 tvg-id="95" tvg-name="American Idol" tvg-logo="https://www.xn--rgv465a.top/tvlogo/American Idol.png" group-title="☘️国际频道",American Idol
+#EXTINF:-1 tvg-id="94" tvg-name="American Idol" tvg-logo="https://www.xn--rgv465a.top/tvlogo/American Idol.png" group-title="☘️国际频道",American Idol
 https://jmp2.uk/stvp-GBBC2300001X5
-#EXTINF:-1 tvg-id="96" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+#EXTINF:-1 tvg-id="95" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
 https://jmp2.uk/stvp-ATAJ7000105F
-#EXTINF:-1 tvg-id="96" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+#EXTINF:-1 tvg-id="95" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
 https://jmp2.uk/stvp-CHAJ700010NR
-#EXTINF:-1 tvg-id="96" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+#EXTINF:-1 tvg-id="95" tvg-name="MTV Teen Mom" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
 https://jmp2.uk/stvp-DEAJ7000105I
-#EXTINF:-1 tvg-id="97" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+#EXTINF:-1 tvg-id="96" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
 https://jmp2.uk/stvp-ATAJ700002OG
-#EXTINF:-1 tvg-id="97" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+#EXTINF:-1 tvg-id="96" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
 https://jmp2.uk/stvp-CHAJ700002UB
-#EXTINF:-1 tvg-id="97" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+#EXTINF:-1 tvg-id="96" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
 https://jmp2.uk/stvp-DEAJ7000033P
-#EXTINF:-1 tvg-id="97" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+#EXTINF:-1 tvg-id="96" tvg-name="MTV Pluto TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
 https://jmp2.uk/stvp-USBA3000093U
-#EXTINF:-1 tvg-id="98" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+#EXTINF:-1 tvg-id="97" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
 https://jmp2.uk/stvp-ATAK3504517A
-#EXTINF:-1 tvg-id="98" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+#EXTINF:-1 tvg-id="97" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
 https://jmp2.uk/stvp-CHAK3504517A
-#EXTINF:-1 tvg-id="98" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+#EXTINF:-1 tvg-id="97" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
 https://jmp2.uk/stvp-DEAK3504502A
-#EXTINF:-1 tvg-id="98" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+#EXTINF:-1 tvg-id="97" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
 https://jmp2.uk/stvp-ESAJ3800003LX
-#EXTINF:-1 tvg-id="98" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+#EXTINF:-1 tvg-id="97" tvg-name="MTV Catfish" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
 https://jmp2.uk/stvp-FRAJ38000050Z
-#EXTINF:-1 tvg-id="99" tvg-name="MTV Cribs" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Cribs.png" group-title="☘️国际频道",MTV Cribs
+#EXTINF:-1 tvg-id="98" tvg-name="MTV Cribs" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Cribs.png" group-title="☘️国际频道",MTV Cribs
 https://jmp2.uk/stvp-ESAJ3800006TT
-#EXTINF:-1 tvg-id="100" tvg-name="AMC Stories" tvg-logo="https://www.xn--rgv465a.top/tvlogo/AMC Stories.png" group-title="☘️国际频道",AMC Stories
+#EXTINF:-1 tvg-id="99" tvg-name="AMC Stories" tvg-logo="https://www.xn--rgv465a.top/tvlogo/AMC Stories.png" group-title="☘️国际频道",AMC Stories
 https://jmp2.uk/stvp-AT3000006M1
-#EXTINF:-1 tvg-id="100" tvg-name="AMC Stories" tvg-logo="https://www.xn--rgv465a.top/tvlogo/AMC Stories.png" group-title="☘️国际频道",AMC Stories
+#EXTINF:-1 tvg-id="99" tvg-name="AMC Stories" tvg-logo="https://www.xn--rgv465a.top/tvlogo/AMC Stories.png" group-title="☘️国际频道",AMC Stories
 https://jmp2.uk/stvp-DE3000009SE
-#EXTINF:-1 tvg-id="101" tvg-name="Stories by AMC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Stories by AMC.png" group-title="☘️国际频道",Stories by AMC
+#EXTINF:-1 tvg-id="100" tvg-name="Stories by AMC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Stories by AMC.png" group-title="☘️国际频道",Stories by AMC
 https://jmp2.uk/stvp-USBD2500018X6
-#EXTINF:-1 tvg-id="102" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+#EXTINF:-1 tvg-id="101" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
 https://jmp2.uk/stvp-CABC52000180Z
-#EXTINF:-1 tvg-id="102" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+#EXTINF:-1 tvg-id="101" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
 https://jmp2.uk/stvp-DEBC2100001ZJ
-#EXTINF:-1 tvg-id="102" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+#EXTINF:-1 tvg-id="101" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
 https://jmp2.uk/stvp-ESBC2100001IU
-#EXTINF:-1 tvg-id="102" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+#EXTINF:-1 tvg-id="101" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
-#EXTINF:-1 tvg-id="102" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+#EXTINF:-1 tvg-id="101" tvg-name="Vevo Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1 tvg-id="103" tvg-name="Vevo Latino" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
+#EXTINF:-1 tvg-id="102" tvg-name="Vevo Latino" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
-#EXTINF:-1 tvg-id="103" tvg-name="Vevo Latino" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
+#EXTINF:-1 tvg-id="102" tvg-name="Vevo Latino" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
 https://jmp2.uk/stvp-USBC3600015GF
-#EXTINF:-1 tvg-id="104" tvg-name="Vevo Hip-Hop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Hip-Hop.png" group-title="☘️国际频道",Vevo Hip-Hop
+#EXTINF:-1 tvg-id="103" tvg-name="Vevo Hip-Hop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Vevo Hip-Hop.png" group-title="☘️国际频道",Vevo Hip-Hop
 https://jmp2.uk/stvp-USBC3600002EK
-#EXTINF:-1 tvg-id="105" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="104" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
 https://jmp2.uk/stvp-CA3900002PM
-#EXTINF:-1 tvg-id="105" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="104" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
 https://jmp2.uk/stvp-DE3900002R1
-#EXTINF:-1 tvg-id="105" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="104" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
-#EXTINF:-1 tvg-id="105" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="104" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
 https://jmp2.uk/stvp-FR3900001AC
-#EXTINF:-1 tvg-id="105" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="104" tvg-name="K-POP by CJ ENM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
 https://jmp2.uk/stvp-GB3900001TM
-#EXTINF:-1 tvg-id="106" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+#EXTINF:-1 tvg-id="105" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-CA1800004L7
-#EXTINF:-1 tvg-id="106" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+#EXTINF:-1 tvg-id="105" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-DE17000032I
-#EXTINF:-1 tvg-id="106" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+#EXTINF:-1 tvg-id="105" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-ES1700005ME
-#EXTINF:-1 tvg-id="106" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+#EXTINF:-1 tvg-id="105" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-FR1700002OZ
-#EXTINF:-1 tvg-id="106" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+#EXTINF:-1 tvg-id="105" tvg-name="NEW KPOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-GB17000088V
-#EXTINF:-1 tvg-id="107" tvg-name="Hallmark Movies & More" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
+#EXTINF:-1 tvg-id="106" tvg-name="Hallmark Movies & More" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
 https://jmp2.uk/stvp-USBD270001633
-#EXTINF:-1 tvg-id="108" tvg-name="Shades of Black" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Shades of Black.png" group-title="☘️国际频道",Shades of Black
+#EXTINF:-1 tvg-id="107" tvg-name="Shades of Black" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Shades of Black.png" group-title="☘️国际频道",Shades of Black
 https://jmp2.uk/stvp-USBC1000004G8
-#EXTINF:-1 tvg-id="109" tvg-name="XXX BRAZZERS 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 1.png" group-title="☘️俄语频道",XXX BRAZZERS 1
+#EXTINF:-1 tvg-id="108" tvg-name="XXX BRAZZERS 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 1.png" group-title="☘️俄语频道",XXX BRAZZERS 1
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954314
-#EXTINF:-1 tvg-id="110" tvg-name="XXX BRAZZERS 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 2.png" group-title="☘️俄语频道",XXX BRAZZERS 2
+#EXTINF:-1 tvg-id="109" tvg-name="XXX BRAZZERS 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 2.png" group-title="☘️俄语频道",XXX BRAZZERS 2
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954317
-#EXTINF:-1 tvg-id="111" tvg-name="XXX BRAZZERS 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 3.png" group-title="☘️俄语频道",XXX BRAZZERS 3
+#EXTINF:-1 tvg-id="110" tvg-name="XXX BRAZZERS 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 3.png" group-title="☘️俄语频道",XXX BRAZZERS 3
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954316
-#EXTINF:-1 tvg-id="112" tvg-name="XXX BRAZZERS 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 4.png" group-title="☘️俄语频道",XXX BRAZZERS 4
+#EXTINF:-1 tvg-id="111" tvg-name="XXX BRAZZERS 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 4.png" group-title="☘️俄语频道",XXX BRAZZERS 4
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954315
-#EXTINF:-1 tvg-id="113" tvg-name="XXX BRAZZERS 5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 5.png" group-title="☘️俄语频道",XXX BRAZZERS 5
+#EXTINF:-1 tvg-id="112" tvg-name="XXX BRAZZERS 5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BRAZZERS 5.png" group-title="☘️俄语频道",XXX BRAZZERS 5
 http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
-#EXTINF:-1 tvg-id="114" tvg-name="XXX REALITY KINGS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX REALITY KINGS.png" group-title="☘️俄语频道",XXX REALITY KINGS
+#EXTINF:-1 tvg-id="113" tvg-name="XXX REALITY KINGS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX REALITY KINGS.png" group-title="☘️俄语频道",XXX REALITY KINGS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935070
-#EXTINF:-1 tvg-id="115" tvg-name="XXX BANGBROS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BANGBROS.png" group-title="☘️俄语频道",XXX BANGBROS
+#EXTINF:-1 tvg-id="114" tvg-name="XXX BANGBROS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BANGBROS.png" group-title="☘️俄语频道",XXX BANGBROS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935089
-#EXTINF:-1 tvg-id="116" tvg-name="XXX DORCEL" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX DORCEL.png" group-title="☘️俄语频道",XXX DORCEL
+#EXTINF:-1 tvg-id="115" tvg-name="XXX DORCEL" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX DORCEL.png" group-title="☘️俄语频道",XXX DORCEL
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935067
-#EXTINF:-1 tvg-id="117" tvg-name="XXX DORCEL 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX DORCEL 2.png" group-title="☘️俄语频道",XXX DORCEL 2
+#EXTINF:-1 tvg-id="116" tvg-name="XXX DORCEL 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX DORCEL 2.png" group-title="☘️俄语频道",XXX DORCEL 2
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935068
-#EXTINF:-1 tvg-id="118" tvg-name="Hustler TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hustler TV.png" group-title="☘️俄语频道",Hustler TV
+#EXTINF:-1 tvg-id="117" tvg-name="Hustler TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hustler TV.png" group-title="☘️俄语频道",Hustler TV
 https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="Penthouse Passion" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Penthouse Passion.png" group-title="☘️俄语频道",Penthouse Passion
+#EXTINF:-1 tvg-id="118" tvg-name="Penthouse Passion" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Penthouse Passion.png" group-title="☘️俄语频道",Penthouse Passion
 https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="XXX TEAM SKEET" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX TEAM SKEET.png" group-title="☘️俄语频道",XXX TEAM SKEET
+#EXTINF:-1 tvg-id="119" tvg-name="XXX TEAM SKEET" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX TEAM SKEET.png" group-title="☘️俄语频道",XXX TEAM SKEET
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935071
-#EXTINF:-1 tvg-id="121" tvg-name="EroLuxe Anal" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Anal.png" group-title="☘️俄语频道",EroLuxe Anal
+#EXTINF:-1 tvg-id="120" tvg-name="EroLuxe Anal" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Anal.png" group-title="☘️俄语频道",EroLuxe Anal
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920262
-#EXTINF:-1 tvg-id="122" tvg-name="EroLuxe Babysitter" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Babysitter.png" group-title="☘️俄语频道",EroLuxe Babysitter
+#EXTINF:-1 tvg-id="121" tvg-name="EroLuxe Babysitter" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Babysitter.png" group-title="☘️俄语频道",EroLuxe Babysitter
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920261
-#EXTINF:-1 tvg-id="123" tvg-name="EroLuxe Creampie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Creampie.png" group-title="☘️俄语频道",EroLuxe Creampie
+#EXTINF:-1 tvg-id="122" tvg-name="EroLuxe Creampie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Creampie.png" group-title="☘️俄语频道",EroLuxe Creampie
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920265
-#EXTINF:-1 tvg-id="124" tvg-name="EroLuxe Shemale" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Shemale.png" group-title="☘️俄语频道",EroLuxe Shemale
+#EXTINF:-1 tvg-id="123" tvg-name="EroLuxe Shemale" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EroLuxe Shemale.png" group-title="☘️俄语频道",EroLuxe Shemale
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920266
-#EXTINF:-1 tvg-id="125" tvg-name="XXX MIA KHALIFA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX MIA KHALIFA.png" group-title="☘️俄语频道",XXX MIA KHALIFA
+#EXTINF:-1 tvg-id="124" tvg-name="XXX MIA KHALIFA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX MIA KHALIFA.png" group-title="☘️俄语频道",XXX MIA KHALIFA
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932767
-#EXTINF:-1 tvg-id="126" tvg-name="XXX Eva Elfie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Eva Elfie.png" group-title="☘️俄语频道",XXX Eva Elfie
+#EXTINF:-1 tvg-id="125" tvg-name="XXX Eva Elfie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Eva Elfie.png" group-title="☘️俄语频道",XXX Eva Elfie
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932766
-#EXTINF:-1 tvg-id="127" tvg-name="XXX SweetieFox" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SweetieFox.png" group-title="☘️俄语频道",XXX SweetieFox
+#EXTINF:-1 tvg-id="126" tvg-name="XXX SweetieFox" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SweetieFox.png" group-title="☘️俄语频道",XXX SweetieFox
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932771
-#EXTINF:-1 tvg-id="128" tvg-name="XXX Reislin" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Reislin.png" group-title="☘️俄语频道",XXX Reislin
+#EXTINF:-1 tvg-id="127" tvg-name="XXX Reislin" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Reislin.png" group-title="☘️俄语频道",XXX Reislin
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932769
-#EXTINF:-1 tvg-id="129" tvg-name="XXX Emma White" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Emma White.png" group-title="☘️俄语频道",XXX Emma White
+#EXTINF:-1 tvg-id="128" tvg-name="XXX Emma White" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Emma White.png" group-title="☘️俄语频道",XXX Emma White
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932765
-#EXTINF:-1 tvg-id="130" tvg-name="XXX LEGALPORNO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LEGALPORNO.png" group-title="☘️俄语频道",XXX LEGALPORNO
+#EXTINF:-1 tvg-id="129" tvg-name="XXX LEGALPORNO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LEGALPORNO.png" group-title="☘️俄语频道",XXX LEGALPORNO
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933287
-#EXTINF:-1 tvg-id="131" tvg-name="XXX LEGALPORNO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LEGALPORNO 2.png" group-title="☘️俄语频道",XXX LEGALPORNO 2
+#EXTINF:-1 tvg-id="130" tvg-name="XXX LEGALPORNO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LEGALPORNO 2.png" group-title="☘️俄语频道",XXX LEGALPORNO 2
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933288
-#EXTINF:-1 tvg-id="132" tvg-name="XXX BDSM BOXXX" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BDSM BOXXX.png" group-title="☘️俄语频道",XXX BDSM BOXXX
+#EXTINF:-1 tvg-id="131" tvg-name="XXX BDSM BOXXX" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BDSM BOXXX.png" group-title="☘️俄语频道",XXX BDSM BOXXX
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935065
-#EXTINF:-1 tvg-id="133" tvg-name="XXX GANGBANG" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX GANGBANG.png" group-title="☘️俄语频道",XXX GANGBANG
+#EXTINF:-1 tvg-id="132" tvg-name="XXX GANGBANG" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX GANGBANG.png" group-title="☘️俄语频道",XXX GANGBANG
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933286
-#EXTINF:-1 tvg-id="134" tvg-name="XXX SQUIRT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SQUIRT.png" group-title="☘️俄语频道",XXX SQUIRT
+#EXTINF:-1 tvg-id="133" tvg-name="XXX SQUIRT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SQUIRT.png" group-title="☘️俄语频道",XXX SQUIRT
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932770
-#EXTINF:-1 tvg-id="135" tvg-name="XXX 21 SEXTURY" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX 21 SEXTURY.png" group-title="☘️俄语频道",XXX 21 SEXTURY
+#EXTINF:-1 tvg-id="134" tvg-name="XXX 21 SEXTURY" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX 21 SEXTURY.png" group-title="☘️俄语频道",XXX 21 SEXTURY
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933284
-#EXTINF:-1 tvg-id="136" tvg-name="XXX FILTHY KINGS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX FILTHY KINGS.png" group-title="☘️俄语频道",XXX FILTHY KINGS
+#EXTINF:-1 tvg-id="135" tvg-name="XXX FILTHY KINGS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX FILTHY KINGS.png" group-title="☘️俄语频道",XXX FILTHY KINGS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935069
-#EXTINF:-1 tvg-id="137" tvg-name="XXX SIS LOVES ME" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SIS LOVES ME.png" group-title="☘️俄语频道",XXX SIS LOVES ME
+#EXTINF:-1 tvg-id="136" tvg-name="XXX SIS LOVES ME" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX SIS LOVES ME.png" group-title="☘️俄语频道",XXX SIS LOVES ME
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935072
-#EXTINF:-1 tvg-id="138" tvg-name="XXX LETSDOEIT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LETSDOEIT.png" group-title="☘️俄语频道",XXX LETSDOEIT
+#EXTINF:-1 tvg-id="137" tvg-name="XXX LETSDOEIT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX LETSDOEIT.png" group-title="☘️俄语频道",XXX LETSDOEIT
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
-#EXTINF:-1 tvg-id="139" tvg-name="XXX Andressa Urach" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Andressa Urach.png" group-title="☘️俄语频道",XXX Andressa Urach
+#EXTINF:-1 tvg-id="138" tvg-name="XXX Andressa Urach" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Andressa Urach.png" group-title="☘️俄语频道",XXX Andressa Urach
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933285
-#EXTINF:-1 tvg-id="140" tvg-name="XXX BUSTY" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BUSTY.png" group-title="☘️俄语频道",XXX BUSTY
+#EXTINF:-1 tvg-id="139" tvg-name="XXX BUSTY" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX BUSTY.png" group-title="☘️俄语频道",XXX BUSTY
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933219
-#EXTINF:-1 tvg-id="141" tvg-name="XXX Brasileirinhas" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Brasileirinhas.png" group-title="☘️俄语频道",XXX Brasileirinhas
+#EXTINF:-1 tvg-id="140" tvg-name="XXX Brasileirinhas" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Brasileirinhas.png" group-title="☘️俄语频道",XXX Brasileirinhas
 http://conecdg.me:80/Andrielly.Silva/Br131221/3959203
-#EXTINF:-1 tvg-id="142" tvg-name="XXX CLASSICOS ITALIANOS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX CLASSICOS ITALIANOS.png" group-title="☘️俄语频道",XXX CLASSICOS ITALIANOS
+#EXTINF:-1 tvg-id="141" tvg-name="XXX CLASSICOS ITALIANOS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX CLASSICOS ITALIANOS.png" group-title="☘️俄语频道",XXX CLASSICOS ITALIANOS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935066
-#EXTINF:-1 tvg-id="143" tvg-name="XXX Kelly Aleman" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Kelly Aleman.png" group-title="☘️俄语频道",XXX Kelly Aleman
+#EXTINF:-1 tvg-id="142" tvg-name="XXX Kelly Aleman" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Kelly Aleman.png" group-title="☘️俄语频道",XXX Kelly Aleman
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933289
-#EXTINF:-1 tvg-id="144" tvg-name="XXX Lexy Lore" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Lexy Lore.png" group-title="☘️俄语频道",XXX Lexy Lore
+#EXTINF:-1 tvg-id="143" tvg-name="XXX Lexy Lore" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Lexy Lore.png" group-title="☘️俄语频道",XXX Lexy Lore
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932772
-#EXTINF:-1 tvg-id="145" tvg-name="XXX Public Agent" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Public Agent.png" group-title="☘️俄语频道",XXX Public Agent
+#EXTINF:-1 tvg-id="144" tvg-name="XXX Public Agent" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Public Agent.png" group-title="☘️俄语频道",XXX Public Agent
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965389
-#EXTINF:-1 tvg-id="146" tvg-name="XXX Punheta guiada" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Punheta guiada.png" group-title="☘️俄语频道",XXX Punheta guiada
+#EXTINF:-1 tvg-id="145" tvg-name="XXX Punheta guiada" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Punheta guiada.png" group-title="☘️俄语频道",XXX Punheta guiada
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933290
-#EXTINF:-1 tvg-id="147" tvg-name="XXX Sammy Corazon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Sammy Corazon.png" group-title="☘️俄语频道",XXX Sammy Corazon
+#EXTINF:-1 tvg-id="146" tvg-name="XXX Sammy Corazon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX Sammy Corazon.png" group-title="☘️俄语频道",XXX Sammy Corazon
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932768
-#EXTINF:-1 tvg-id="148" tvg-name="XXX WICKED" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX WICKED.png" group-title="☘️俄语频道",XXX WICKED
+#EXTINF:-1 tvg-id="147" tvg-name="XXX WICKED" tvg-logo="https://www.xn--rgv465a.top/tvlogo/XXX WICKED.png" group-title="☘️俄语频道",XXX WICKED
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933281
-#EXTINF:-1 tvg-id="149" tvg-name="Bang U" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
+#EXTINF:-1 tvg-id="148" tvg-name="Bang U" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920264

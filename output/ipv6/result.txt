@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-08 16:27:46,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
+2026-04-09 18:43:10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
 
 ☘️央视频道,#genre#
 CCTV-1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
@@ -174,6 +174,8 @@ Fashion TV,https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 
 ☘️国际频道,#genre#
+BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC News,https://jmp2.uk/stvp-US4000033L
 CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN,https://jmp2.uk/stvp-CHBD800001D0
 CNN,https://jmp2.uk/stvp-DEBD800001S4
@@ -187,9 +189,9 @@ CNN Headlines,https://jmp2.uk/stvp-FRBD190001055
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-BBC News,https://jmp2.uk/stvp-US4000033L
-ABC News Live,https://jmp2.uk/stvp-USBC39000171G
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+DW,https://jmp2.uk/stvp-ES1300001QC
+DW,https://jmp2.uk/stvp-GB1300001RX
 FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
 FRANCE 24 FAST,https://jmp2.uk/stvp-CHBD1100003CW
 FRANCE 24 FAST,https://jmp2.uk/stvp-DEBD1100002II
@@ -209,13 +211,10 @@ NBC News NOW,https://jmp2.uk/stvp-ESBC400003YM
 NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG
 NBC News NOW,https://jmp2.uk/stvp-ITBC4000028E
 NBC News NOW,https://jmp2.uk/stvp-USBB2200014DK
-DW,https://jmp2.uk/stvp-ES1300001QC
-DW,https://jmp2.uk/stvp-GB1300001RX
 Al Jazeera,https://jmp2.uk/stvp-ES2300004XW
 Al Jazeera,https://jmp2.uk/stvp-FR23000013B
 Al Jazeera,https://jmp2.uk/stvp-GB2300005ML
 Al Jazeera,https://jmp2.uk/stvp-IT23000034W
-LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
 BBC Series,https://jmp2.uk/stvp-AT2100004P1
 BBC Series,https://jmp2.uk/stvp-CH2100003MU
 BBC Series,https://jmp2.uk/stvp-DE21000031Z
