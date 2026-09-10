@@ -1,10 +1,11 @@
-📺央视频道,#genre#
+☘️央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
 CCTV-4
 CCTV-5
 CCTV-5+
+CCTV-16
 CCTV-6
 CCTV-7
 CCTV-8
@@ -15,13 +16,13 @@ CCTV-12
 CCTV-13
 CCTV-14
 CCTV-15
-CCTV-16
 CCTV-17
-CETV-1
-CETV-2
-CETV-3
-CETV-4
-
+CHC动作电影
+CHC家庭影院
+CHC影迷电影
+「B站」英雄联盟
+「B站」王者荣耀_𝟙
+「B站」王者荣耀_𝟚
 📡卫视频道,#genre#
 广东卫视
 香港卫视
@@ -57,23 +58,691 @@ CETV-4
 西藏卫视
 新疆卫视
 云南卫视
-
-☘️广东频道,#genre#
-广东珠江
-广东体育
-广东新闻
-广东卫视
-广东民生
-大湾区卫视
-广州综合
-广州影视
-广州竞赛
-江门综合
-江门侨乡生活
-佛山综合
-深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
+☘️台湾频道,#genre#
+鏡電視新聞台
+東森新聞台
+華視新聞
+華視新聞
+民視新聞台
+民視新聞台
+民視新聞台
+三立新聞iNEWS
+TVBS新聞
+東森財經新聞台
+東森財經新聞台
+中視新聞
+中視新聞
+中天新聞台
+Bloomberg TV
+寰宇新聞台
+寰宇新聞台灣台
+SBN全球財經台
+半島國際新聞台
+CNBC Asia 財經台
+FRANCE24 英文台
+DW德國之聲
+NHK WORLD-JAPAN
+電影原聲台CMusic
+TRACE Urban
+Mezzo Live HD
+CLASSICA 古典樂
+ROCK Xstream搖滾極限頻道
+ROCK Entertainment
+ROCK Action
+靖天映畫
+靖天電影台
+影迷數位電影台
+amc電影台
+CinemaWorld
+My Cinema Europe HD 我的歐洲電影
+經典電影台
+民視旅遊台
+亞洲旅遊台
+亞洲旅遊台
+fun探索娛樂台
+Love Nature
+History 歷史頻道
+愛爾達生活旅遊台
+LUXE TV Channel
+TV5MONDE STYLE HD 生活時尚
+MagellanTV頻道 (麥哲倫頻道)
+INULTRA
+FashionTV 時尚頻道
+Mezzo Live HD
+ROCK Xstream搖滾極限頻道
+LUXE TV Channel
+Love Nature
+☘️香港频道,#genre#
+鳳凰中文
+鳳凰資訊
+鳳凰香港
+無線新聞台1
+無線新聞台2
+TVB娛樂新聞台
+NOW新聞台
+HOY資訊台
+HOY國際財經台
+無線新聞台B
+NOW新聞台B
+鳳凰中文B
+鳳凰資訊B
+鳳凰香港B
+HOY資訊台B
+HOY國際財經台B
+天映頻道
+天映新加坡
+天映經典台
+天映經典台2
+TVB星河1
+TVB星河2
+TVB星河3
+靖天電影台
+龍華電影
+經典電影台
+amc電影台
+CinemaWorld
+My Cinema Europe
+影迷數位電影台
+天映頻道(新加坡)B
+天映經典B
+龍華電影B
+經典電影台
+TVB星河B
+翡翠台
+翡翠台(字幕)
+翡翠台4K(字幕)
+翡翠劇集台
+華麗翡翠台1
+華麗翡翠台2
+華麗翡翠台(硬字幕)
+華麗翡翠台(新加坡)
+MTV (Primehome)
+Music Japan TV (Primehome)
+FASHION+
+Fashion World
+Global Fashion Channel (1080p)
+FashionTV Paris L'Original (1080p)
+FashionTV Secrets (1080p)
+Deluxe Music
+nuart
+FASHION+
+Fashion World
+Global Fashion Channel (1080p)
+FashionTV Paris L'Original (1080p)
+FashionTV Secrets (1080p)
+CARAC1
+CARAC2
+CARAC5
+Deluxe Music
+Playboy TV Latin America (1080p)
+PlayBoyHD
+Playboy Plus
+Playboy TV HD
+Playboy TV
+Playboy
+Playboy Plus
+Playboy FHD
+Playboy HD
+Playboy SD
+Playboy LA
+PLAYBOY
+花花公子
+MetArt FHD
+SexArt
+MetArt HD
+FemJoy
+nuart
+XY Max HD
+XY Mix HD
+XY Plus HD
+☘️电影频道,#genre#
+HBO(125)
+CINEMAX(125)
+東森電影(125)
+amc 電影台
+影迷數位電影台
+My Cinema Europe HD 我的歐洲電影
+MovieSphere
+Action Hollywood
+Mytime Movie
+Universal Movies
+Universal Action
+Universal Western
+Universal Crime
+CW Gold
+CW Forever
+Sony One Action HITS
+Sony One Comedy HITS
+Top Movies
+Action Movies
+Comedy Movies
+Thrillers
+Sci-Fi
+Romance Movies
+Drama Movies
+Thriller TV
+Comedy TV
+Sony One FAVES
+Sony One Dragons' Den
+Great British Menu
+Icon Film Channel
+Popflix
+LG 1 Film
+Universal Monsters
+Action Movies 
+Comedy Movies
+Drama Movies 
+Romance Movies 
+Sci-Fi
+Thrillers
+Top Movies
+Reality
+Family  
+☘️国际频道,#genre#
+CNN
+CNNj (Primehome) 
+BBC News
+BBC News (Primehome)  
+CNA
+GB News
+ABC News
+RT News
+TV Brics
+France24
+NHK World
+Sky News
+Al Jazeera
+TRT World
+NEWSMAX
+Reuters
+Global News
+NBC News Now
+One American News
+WION
+ABC News Live
+Sky News International
+National Geographic (Primehome)
+Discovery (Primehome) 
+History Channel (Primehome)
+Animal Planet (Primehome)
+Trace Sport Stars
+Tennis Channel
+beIN SPORTS XTRA
+UFC
+FashionTV FR
+DBBC Earth
+Wild Earth
+History Hit
+Outdoor Channel
+The First
+Adventure Earth
+Autentic History
+Autentic Travel
+Inside Outside
+GoUSA TV
+Kartoon Channel
+ION Plus
+LG 1 Spotlight
+LG 1
+SBS Drama
+New Kmovies
+☘️国际体育,#genre#
+NICK
+REDBULL
+GOOD
+TRUE VISIONS
+TRUE SPORTS 5
+TRUE SPORTS
+TRUE VISIONS
+TRUE WILD
+WB TV
+TRUE X-XYTE
+MLB NETWORK HD
+SporTV HD
+SporTV 2 HD
+SporTV 3 HD
+SporTV 4 HD
+CCTV5
+CCTV5+
+CCTV5
+CCTV5+
+ASTRO Football
+ASTRO Grandstand
+ASTRO Premier League
+ASTRO Premier League 2
+ASTRO Sports Plus
+BEIN SPORTS 1 [ID]
+BEIN SPORTS 2 [ID]
+HUB SPORTS 1 [SG]
+HUB SPORTS 2 [SG]
+HUB SPORTS 3 [SG]
+HUB SPORTS 4 [SG]
+HUB SPORTS 5 [SG]
+STARHUB PREMIER 1 [SG]
+STARHUB PREMIER 2 [SG]
+STARHUB PREMIER 2 [SG]
+STARHUB PREMIER 3 [SG]
+STARHUB PREMIER 4 [SG]
+STARHUB PREMIER 5 [SG]
+TRUE PREMIERE LEAGUE 1 [TH]
+TRUE PREMIERE LEAGUE 2 [TH]
+TRUE PREMIERE LEAGUE 3 [TH]
+TRUE PREMIERE LEAGUE 4 [TH]
+TRUE PREMIERE LEAGUE 5 [TH]
+Fussbal TV 1 FHD DE
+Fussbal TV 2 FHD DE
+Fussbal TV 3 FHD DE
+BBC One UK
+FOX Sports 1 HD US
+FOX Sports 2 HD US
+TSN 1 HD CA
+TSN 2 HD CA
+TSN 3 HD CA
+TSN 4 HD CA
+TSN 5 HD CA
+☘️国际音乐,#genre#
+MTV
+MTV Live
+MUCH CA
+Qello Concerts by Stingray
+Stingray Classica
+Stingray DJAZZ
+Vevo '70s
+Vevo '80s
+Vevo '90s
+Vevo 2K
+Vevo 2010s
+Vevo Country
+Vevo Country Rewind
+Vevo Hip-Hop
+Vevo Latino
+Vevo Pop
+Vevo R&B
+Vevo Rock
+XITE 80s Flashback
+XITE 90s Throwback
+XITE Christian Hits
+XITE Classic Country
+XITE Country Today
+XITE Hits
+XITE Just Chill
+XITE Nuevo Latino
+XITE R&B Classic Jams
+XITE Reggae Vibes
+XITE Rock x Metal
+XITE Siempre Latino
+XITE Spring Vibes
+NOW 70s UK
+NOW 80s UK
+NOW 90s & 00s UK
+Trace UK UK
+Trace Urban UK
+Trace Latina FR
+Deluxe Dance By Kontor DE
+Deluxe Deutschpop DE
+Deluxe Lounge DE
+Deluxe RAP DE
+Deluxe Summertime DE
+☘️记录与时尚,#genre#
+Space & Beyond
+Welcome Home
+BBC History DE
+The Judge Judy Channel
+BBC Earth
+Haunt TV
+FilmRise Forensic Files
+FilmRise Mysteries
+FilmRise True Crime
+MagellanTV Wildest
+How To
+Bloomberg Originals
+CNN Originals
+Nature Moments
+PBS Genealogy
+PBS Nature
+REELZ Famous & Infamous
+Smithsonian Channel Selects
+Military Heroes
+Universe: Mysteries Solved
+PBS History
+PBS Science
+Discovery Turbo
+Tastemade Travel
+Tastemade Home
+Tastemade
+Sweet Escapes
+BBC Travel DE
+BBC Antiques Roadshow UK
+BBC Top Gear UK
+CTV Gridlock CA
+A&E Crime 360 CA
+FilmRise Drama
+FilmRise Horror
+FilmRise Sci-Fi
+FilmRise Black TV
+FilmRise British TV
+FilmRise Classic TV
+FilmRise Western
+FilmRise Free Movies
+Universal Crime
+Universal Monsters
+Universal Western
+Universal Action
+Universal Movies
+Great! Movies UK
+Great! Romance UK
+Lifetime Movies UK
+Classic Cinema
+TV Land Drama
+Documentales por M+ ES
+Indie por M+ ES
+Drama por M+ ES
+Acción por M+ ES
+Clásicos por M+ ES
+Comedia por M+ ES
+Hits por M+ ES
+Estrenos por M+ ES
+☘️台湾文艺,#genre#
+驚豔台
+潘朵啦玩美
+香蕉台
+松視1
+松視2
+松視3
+奧視2台
+奧視3台
+Sex Girl
+彩虹E
+彩虹K
+彩虹頻道
+奧視頻道
+奧視頻道2
+Banana香蕉
+LOOK
+JGIRL
+Jgirl
+JStar
+上原亜衣
+波多野結衣
+蒼井空
+麻豆
+麻豆大番
+麻豆外番
+中字有碼
+中字有碼3
+無碼破解
+FC2PPV 1
+天堂素人約啪
+金絲雀
+貓先生
+汝工作室
+日本
+韓國三級 1
+韓國三級 2
+91短視頻
+極限電影
+探花視頻24小時播放
+Fake Taxi
+FAKE AGENT
+Fake Agent
+FAKE COP
+Fake Hostel
+Fake Hospital
+Fake Hub
+Fake Driving School
+Public Agent
+BANGBROS
+Daughter Swap
+Sis Loves Me
+Fake Hostel
+Perv Mom
+Perv City
+BAEB Perv City
+EROTIC SPICE
+LETSDOEIT
+Fake Hospital
+Fake Driving School
+Asshole Fever
+Anal Teen Angels
+Adult Time
+Analized
+Anal Time
+Anal Only
+Anal Mom
+Anal 4K
+Amateur Boxxx
+All Anal
+Alex Legend
+Brazzers
+Brazzers eXXtra
+Day with a Pornstar
+Hot and Mean
+Dirty Masseur
+Bang Bros
+Monsters of Cock
+Bang POV
+Bang Bus
+Ass Parade
+Babes
+Bang!
+Blacked
+Bratty Sis
+Brand New Amateurs
+BBC Pie
+Banana Fever
+Cherry Pimps
+Club Sweethearts
+Cum Louder
+Cum4k
+Cum Perfection
+DDF Network
+DDF Busty
+DDF Hands on Hardcore
+Euro Girls On Girls
+Digital Desire
+Digital Playground
+Dorcel Club
+Dirty Flix
+Deepthroat Sirens
+Deep Lush
+Dark X
+Dane Jones
+Dancing Bear
+Dad Crush
+Devils Film
+Evil Angel
+Evolved Fights
+Exotic4k
+Erotica X
+Erotic Spice
+Fake Taxi
+FemJoy
+Family Swap XXX
+Family Strokes
+Hard X
+Hitzefrei
+Holed
+Hot Guys Fuck
+Hot Wife XXX
+Japan HDV
+Lesbea
+Lethal Hardcore
+Little Asians
+Lust Cinema
+MYLF
+Got MYLF
+MetArt
+Naughty America
+Dirty Wives Club
+Nubiles
+Private
+Public Agent
+Reality Kings
+RK Prime
+RK TV
+We Live Together
+SexArt
+Sex With Muslims
+SINematica
+Tiny 4K
+True Amateurs
+Tushy
+Tushy Raw
+Vixen
+White Boxxx
+Wicked
+XXX Emma White
+XXX Eva Elfie
+XXX MIA KHALIFA
+XXX Sammy Corazon
+XXX Reislin
+XXX SQUIRT
+XXX SweetieFox
+XXX Lexy Lore
+XXX BUSTY
+XXX WICKED
+XXX 21 SEXTURY
+XXX Andressa Urach
+XXX GANGBANG
+XXX LEGALPORNO
+XXX LEGALPORNO 2
+XXX Kelly Aleman
+XXX Punheta guiada
+XXX Brasileiras
+XXX BDSM BOXXX
+XXX CLASSICOS ITALIANOS
+XXX DORCEL
+XXX DORCEL 2
+XXX FILTHY KINGS
+XXX REALITY KINGS
+XXX TEAM SKEET
+XXX SIS LOVES ME
+XXX ORGIAS
+XXX BANGBROS
+XXX BRAZZERS 1
+XXX BRAZZERS 2
+XXX BRAZZERS 3
+XXX BRAZZERS 4
+XXX BRAZZERS 5
+XXX Brasileirinhas
+XXX Fake Hostel
+XXX Fake Hub
+XXX Fake Taxi
+XXX Public Agent
+XXX Fake Hospital
+XXX Fake Driving School
+XXX Fake Agent
+XXX LETSDOEIT
+Hitzefrei HD
+Русская Ночь
+Liberty Эротика
+YOSSO TV SEXY
+KinoXXX
+Tviksel Кино 18+ HD
+Tviksel Кино 18+ International  
+BCU Charm HD
+XY Plus
+XY Max
+XY Mix
+CARAC1（早7）
+DMF
+Playboy LA
+Playboy
+Playboy Plus
+Sexy Hot
+Venus
+Beate Uhse TV
+BCU Charm HD
+Brazzers TV Europe
+Blue Hustler
+Hustler HD
+Babes TV
+Dorcel TV
+Dorcel XXX
+Erox HD
+Eroxxx HD
+Exxxotica
+EroLuxe Anal
+EroLuxe Asian
+EroLuxe BDSM
+EroLuxe Babysitter
+EroLuxe BigCock
+EroLuxe Blonde
+EroLuxe Blowjob
+EroLuxe Brunette
+EroLuxe Creampie
+EroLuxe Fisting
+EroLuxe Gangbang
+EroLuxe Lesbians
+EroLuxe MILF
+EroLuxe Orgy
+EroLuxe POV
+EroLuxe RedHeads
+EroLuxe Russian
+EroLuxe Schoolgirl
+EroLuxe Shemale
+EroLuxe Solo
+EroLuxe BBW
+EroLuxe Cheerleader
+EroLuxe Cinema
+EroLuxe Cosplay
+EroLuxe Cuckold
+EroLuxe Ebony
+EroLuxe FakeTaxi
+EroLuxe FootFetish
+EroLuxe Gloryhole
+EroLuxe Henati
+EroLuxe Japanese
+EroLuxe Massage
+EroLuxe Parody
+EroLuxe Pregnant
+EroLuxe PublicAgent
+EroLuxe Stepfamily
+EroLuxe 4k
+EroLuxe 4k60fps
+EroLuxe 60fps
+Eromania 4K
+Extasy 4K
+Extasy TV
+Leo TV
+Liberty Эротика
+Русская Ночь
+Penthouse Gold
+Penthouse Reality TV
+Penthouse Passion
+Private TV
+Redlight HD
+Reality Kings TV
+Red Lips
+Super One HD
+Vivid Red
+YOSSO TV SEXY
+PassionXXX
+Bang U
+Extasy HD
+Tviksel Кино 18+ HD
+Hot Pleasure
+Red XXX
+OX-AX HD
+Balkan Erotic
+Meiden van Holland
+Dusk
+Secret Circle
+CentoXCento TV
+Pinko Club TV
+Hot
+Alba XXX HD1
+Alba XXX HD2
+Alba XXX HD3
+Alba XXX HD4
+Alba XXX HD5
+Alba XXX HD6
+Veraporn Group Sex
+Veraporn Group Sex 2
+CineMan ExExEx
+CineMan ExExEx TWO
+OLERO Babes
+Pure Babes
+21 Sextury
+DP Fanatics
+☘️泰语频道,#genre#
